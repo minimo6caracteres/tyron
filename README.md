@@ -21,3 +21,4 @@ Empower your world.
 <p align="center">
   <img src= ./images/tyron.png width= 333>
 </p>
+![tyron](/images/tyron.png){:class="img-responsive" width=333}
