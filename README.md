@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+Are you worried about how companies use your data?
 
-You can use the [editor on GitHub](https://github.com/tyronNetwork/tyron/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Do you believe that digitalization can improve our democracy and financial systems?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The Problem
+Private companies are capitalizing on their users' personal data. You are getting robbed.
 
-### Markdown
+Every time you want to buy from an online shop, you have to give away personal information that is not necessary - like your gender - and they can store your data for a long time.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What is Tyron?
+Tyron is a blockchain service for you, the end-user.
 
-```markdown
-Syntax highlighted code block
+Tyron wants to build an e-commerce network for peer-to-peer transactions where you own your identity and private information. For each company you interact with, you could create a unique digital persona. From your account, you could manage all your personas and decide what personal information they have access to.
 
-# Header 1
-## Header 2
-### Header 3
+Using tyron, all the data you create is encrypted with your secret keys.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tyronNetwork/tyron/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Own your data,
+Empower your world.
+```
+![tyron][/images/tyron.png]
