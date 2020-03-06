@@ -19,5 +19,5 @@ Own your data,
 Empower your world.
 ```
 <p align="center">
-  <img src=./images/tyron.png width= 220>
+  <img src=./images/tyron.png width= 333>
 </p>
