@@ -18,8 +18,4 @@ Using tyron, all the data you create is encrypted with your secret keys.
 Own your data,
 Empower your world.
 ```
-<p align="center">
-  <img src= ./images/tyron.png width= 333 class="img-responsive">
-</p>
-
-![tyron](./images/tyron.png){:class="img-responsive" :height="333px" width="333px"}
+![tyron](https://github.com/tyronNetwork/images/tyron.png){:class="img-responsive" :height="333px" width="333px"}
