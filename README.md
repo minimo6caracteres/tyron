@@ -19,6 +19,6 @@ Own your data,
 Empower your world.
 ```
 <p align="center">
-  <img src= ./images/tyron.png width= 333>
+  <img src= ./images/tyron.png width= 333 class="img-responsive">
 </p>
 ![tyron](/images/tyron.png){:class="img-responsive" :height="333px" width="333px"}
