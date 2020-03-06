@@ -20,7 +20,9 @@ Empower your world.
 ```
 ![tyron](/images/tyron.png){:class="img-responsive" :height="333px" width="333px"}
 
-## Vision
-:zap: ```tyron as open source software```
+:zap: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
-:rainbow: ```social enterprise``` Tyron's vision is to create a nonprofit open organization to manage this project.
+## Vision
+```tyron as open source software```
+
+```social enterprise``` Tyron's vision is to create a nonprofit open organization to manage this project.
