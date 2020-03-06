@@ -21,6 +21,6 @@ Empower your world.
 ![tyron](/images/tyron.png){:class="img-responsive" :height="333px" width="333px"}
 
 ## Vision
-```:zap: tyron as open source software```
+:zap: ```tyron as open source software```
 
 Tyron's vision is to create a nonprofit open organization to manage this project.
