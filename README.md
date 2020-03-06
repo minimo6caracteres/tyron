@@ -23,4 +23,4 @@ Empower your world.
 ## Vision
 :zap: ```tyron as open source software```
 
-Tyron's vision is to create a nonprofit open organization to manage this project.
+:rainbow: ```social enterprise``` Tyron's vision is to create a nonprofit open organization to manage this project.
