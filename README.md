@@ -18,9 +18,11 @@ Using tyron, all the data you create is encrypted with your secret keys.
 Own your data,
 Empower your world.
 ```
-![tyron](/images/tyron.png){:class="img-responsive" :height="333px" width="333px"}
+![tyron](./images/tyron.png =200x200){:class="img-responsive" :height="333px" width="333px"}
 
+:::info
 :zap: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
+:::
 
 ## Vision
 ```tyron as open source software```
