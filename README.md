@@ -35,3 +35,12 @@ Empower your world.
 The end-users pay for the service through transaction fees. 
 
 Profits will fund sustainable projects to mitigate global warming. Users will also vote on these projects.
+
+## Engineering
+### Proof-of-Concept 1: _Own Your Data_
+Tyron will leverage self-sovereign identity to give data sovereignty to their users.
+And blockchain will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.
+
+Please [contribute](/ecosystem/contribute.md) :high_brightness:
+
+Learn more about [tyron's engineering](/engineering/poc1.md).
