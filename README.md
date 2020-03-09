@@ -26,3 +26,12 @@ Empower your world.
 ```tyron as open source software```
 
 ```social enterprise``` Tyron's vision is to create a nonprofit open organization to manage this project.
+### Values
+:zap: To work to mitigate global warming.
+
+:zap: To advocate for data rights as human rights.
+
+### Profits
+The end-users pay for the service through transaction fees. 
+
+Profits will fund sustainable projects to mitigate global warming. Users will also vote on these projects.
