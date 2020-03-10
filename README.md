@@ -2,6 +2,16 @@ Are you worried about how companies use your data?
 
 Do you believe that digitalization can improve our democracy and financial systems?
 
+[The problem](#the-problem)
+
+[Towards the solution](#what-is-tyron)
+
+[Tyron's vision](#vision)
+ * [Values](#values)
+ * [Profits](#profits)
+ 
+[Engineering](#engineering)
+
 ## The Problem
 Private companies are capitalizing on their users' personal data. You are getting robbed.
 
