@@ -12,6 +12,8 @@ Do you believe that digitalization can improve our democracy and financial syste
  
 [Engineering](#engineering)
 
+---
+
 ## The Problem
 Private companies are capitalizing on their users' personal data. You are getting robbed.
 
