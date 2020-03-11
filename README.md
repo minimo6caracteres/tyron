@@ -55,4 +55,4 @@ And blockchain will be the backbone technology for the peer-to-peer tyron.networ
 
 Please [contribute](/ecosystem/contribute.md) :high_brightness:
 
-Learn more about [tyron's engineering](https://github.com/tyronNetwork/tyron/tree/master/engineering)!
+Learn more about tyron's [engineering](/engineering/engineering.md)!
