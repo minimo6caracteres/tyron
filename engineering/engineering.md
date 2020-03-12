@@ -1,4 +1,4 @@
-[Back to the homepage](/tyron)
+[Back to the homepage](https://tyron.network)
 
 Tyron's design implements several cutting-edge technologies, many of them in active development by the open source community.
 
@@ -31,4 +31,4 @@ Tyron's design implements several cutting-edge technologies, many of them in act
   - [Rust](https://www.rust-lang.org): For the fourth year in a row, Rust is the most loved programming language according to the [Developer Survey Results 2019 by Stack Overflow](https://insights.stackoverflow.com/survey/2019). Rust is very fast and powerful, like C++ but for the 21st century. It has a growing open-source community, and its design is modern and [easy to learn](https://doc.rust-lang.org/book/).
   - [WebAssembly (Wasm)](https://webassembly.org): It is a new type of code, a portable target for compilation of high-level languages like Rust, that can be run with near-native performance in modern web browsers alongside JavaScript. Wasm is being developed as a web standard via the W3C WebAssembly Working Group.
   
-[Back to the homepage](/README.md)
+[Back to the homepage](https://tyron.network)
