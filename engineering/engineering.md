@@ -1,4 +1,4 @@
-[Back to the homepage](https://tyron.network)
+[Back to the homepage](/tyron)
 
 Tyron's design implements several cutting-edge technologies, many of them in active development by the open source community.
 
