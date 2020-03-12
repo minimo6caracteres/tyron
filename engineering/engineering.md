@@ -1,4 +1,4 @@
-|[Back to the homepage ./ tyron](/)|
+|[Back to the homepage ./ tyron](/README.md)|
 |----------------------------------|
 
 Tyron's design implements several cutting-edge technologies, many of them in active development by the open source community.
