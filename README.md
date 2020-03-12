@@ -6,7 +6,8 @@ Do you believe that digitalization can improve our democracy and financial syste
 
 [Towards the solution](#what-is-tyron)
 
-[Tyron's vision](#vision)
+[Tyron's purpose](#purpose)
+ * [Vision](#vision)
  * [Values](#values)
  * [Profits](#profits)
  
@@ -34,7 +35,11 @@ Empower your world.
 
 > :zap: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
-## Vision
+## Purpose
+```
+To give people the ownership of their data.
+```
+### Vision
 ```tyron as open source software```
 
 ```social enterprise``` Tyron's vision is to create a nonprofit open organization to manage this project.
