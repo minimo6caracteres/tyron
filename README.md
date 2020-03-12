@@ -35,6 +35,7 @@ Empower your world.
 ![tyron](/images/tyron.png){:class="img-responsive" :height="200px" width="200px"}
 
 > :zap: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
+
 ---
 ## Purpose
 ```
@@ -53,6 +54,7 @@ To give people the ownership of their data.
 The end-users pay for the service through transaction fees. 
 
 Profits will fund sustainable projects to mitigate global warming. Users will also vote on these projects.
+
 ---
 ## Engineering
 ### Proof-of-Concept 1: _Own Your Data_
