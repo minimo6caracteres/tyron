@@ -32,7 +32,7 @@ Using tyron, all the data you create is encrypted with your secret keys.
 Own your data,
 Empower your world.
 ```
-![tyron](/images/tyron.png){: class="img-responsive" height="150px" width="150px" style="text-align: center"}
+![tyron](/images/tyron.png){: .center-image class="img-responsive" height="150px" width="150px"}
 
 > :zap: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
