@@ -33,6 +33,7 @@ Own your data,
 Empower your world.
 ```
 <img src="/images/tyron.png" alt="tyron" title="tyron" width="200" height="200" />
+
 > :zap: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
 ---
