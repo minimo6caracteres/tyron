@@ -23,7 +23,7 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 
 ---
 
-- [Sidetree Protocol](https://github.com/decentralized-identity/sidetree/blob/master/docs/protocol.md)
+- [Sidetree Protocol](https://github.com/decentralized-identity/sidetree/blob/master/docs/protocol.md): Developed by the engineering-driven [Decentralized Identity Foundation](https://identity.foundation/), this protocol is meant to optimize DIDs throughput by batching multiple CRUD operations into one Sidetree transaction. The batch file gets stored in a DCAS (distributed content-addressable storage), an anchor file is created with its metadata, and the hash of the latter anchored on the blockchain. 
 
 ---
 
