@@ -1,6 +1,6 @@
 Tyron's design implements several cutting-edge technologies, many of them in active development by the open source community.
 
-## General overview of tyron's stack
+## Tyron's Stack
 ```
 |------------------------------------------------------------------------------------------------|
 |                                        |--> Hyperledger Aries                                  |
@@ -27,7 +27,7 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 
 ---
 
-- [Decentralized Identifiers](https://www.w3.org/TR/did-core/): DIDs are a new type of Uniform Resource Locator (URL), that act as web addresses for digital identities anchored in a shared root of trust, such as a distributed ledger. This allows digital identities to interact in a verifiable way without introducing a centralized authority or a single point of failure. Tyron combines distributed ledger technology (DLT) with a decentralized identity management system to enable their users to create and manage their own identifiers. DIDs are being standardized by the World Wide Web Consortium (W3C).
+- [Decentralized Identifiers](https://w3c.github.io/did-core/): DIDs are a new type of Uniform Resource Locator (URL), that act as web addresses for digital identities anchored in a shared root of trust, such as a distributed ledger. This allows digital identities to interact in a verifiable way without introducing a centralized authority or a single point of failure. Tyron combines distributed ledger technology (DLT) with a decentralized identity management system to enable their users to create and manage their own identifiers. DIDs are being standardized by the World Wide Web Consortium (W3C).
 
 ---
 
