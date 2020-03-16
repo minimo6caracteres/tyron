@@ -1,6 +1,6 @@
 Tyron's design implements several cutting-edge technologies, many of them in active development by the open source community.
 
-## General overview of tyron's stack
+## Tyron's Stack
 ```
 |------------------------------------------------------------------------------------------------|
 |                                        |--> Hyperledger Aries                                  |
