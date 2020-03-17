@@ -1,3 +1,5 @@
+<a onclick="window.history.back()">Back</a>
+
 Tyron's design implements several cutting-edge technologies, many of them in active development by the open source community.
 
 ## Tyron's Stack
