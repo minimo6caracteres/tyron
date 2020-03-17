@@ -1,6 +1,4 @@
-<a onclick="window.history.back()">Back</a>
-
-<a href="/tyron">Back to homepage</a>
+<a onclick="window.history.back()">Back to homepage</a>
 
 Tyron's design implements several cutting-edge technologies, many of them in active development by the open source community.
 
