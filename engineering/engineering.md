@@ -1,3 +1,7 @@
+<a href="/tyron">Back to homepage</a>
+
+---
+
 Tyron's design implements several cutting-edge technologies, many of them in active development by the open source community.
 
 ## Tyron's Stack
@@ -40,3 +44,7 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 ---
 
 - [WebAssembly (Wasm)](https://webassembly.org): It is a new type of code, a portable target for compilation of high-level languages like Rust, that can be run with near-native performance in modern web browsers alongside JavaScript. Wasm is being developed as a web standard via the W3C WebAssembly Working Group.
+
+---
+
+<a href="/tyron">Back to homepage</a>
