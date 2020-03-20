@@ -48,3 +48,5 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 ---
 
 <a href="/tyron">Back to homepage</a>
+
+---
