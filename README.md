@@ -5,7 +5,7 @@ Do you believe that digitalization can improve our democracy and financial syste
 ### INDEX
 [The problem](#the-problem)
 
-[Towards the solution: tyron](#towards-the-solution-tyron)
+[What is tyron](#what-is-tyron)
 
 [Purpose of tyron](#purpose)
  * [Vision](#vision)
@@ -21,7 +21,7 @@ Private companies are capitalizing on their users' personal data. You are gettin
 
 Every time you want to buy from an online shop, you have to give away personal information that is not necessary - like your gender - and they can store your data for a long time.
 
-## Towards the Solution: Tyron
+## What is tyron?
 Tyron is a blockchain service for you, the end-user.
 
 Tyron wants to build an e-commerce network for peer-to-peer transactions where you own your identity and private information. For each company you interact with, you could create a unique digital persona. From your account, you could manage all your personas and decide what personal information they have access to.
