@@ -52,7 +52,7 @@ To give people the ownership of their data.
 :zap: To advocate for data rights as human rights.
 
 ### Profits
-The end-users pay for the service through transaction fees. 
+The end-users pay for the service through transaction fees.
 
 Profits will fund sustainable projects to mitigate global warming. Users will also vote on these projects.
 
@@ -60,8 +60,14 @@ Profits will fund sustainable projects to mitigate global warming. Users will al
 
 ## Engineering
 ### Proof-of-Concept 1: _Own Your Data_
-Tyron will leverage self-sovereign identity to give data sovereignty to their users.
-And blockchain will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.
+Tyron will leverage self-sovereign identity (**SSI**) to give data sovereignty to their users' cryptographic identities.
+
+**Blockchain** will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.
+
+### Proof-of-Concept 2: _Sell Your Data_
+What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
+
+Storage of your data is also key and tyron agents provide the software complying with **Hyperledger Aries**. 
 
 Please [contribute](/ecosystem/contribute.md) :high_brightness:
 
