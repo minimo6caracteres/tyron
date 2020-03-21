@@ -67,7 +67,7 @@ Tyron will leverage self-sovereign identity (**SSI**) to give data sovereignty t
 ### Proof-of-Concept 2: _Sell Your Data_
 What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
 
-Storage of your data is also key and tyron agents provide the software complying with open source **Hyperledger Aries** of the Linux Foundation. 
+Storage of your data is also key and tyron agents provide the software in compliance with open source **Hyperledger Aries** of the Linux Foundation. 
 
 ---
 
