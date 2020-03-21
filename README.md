@@ -45,7 +45,7 @@ To give people the ownership of their data.
 ### Vision
 ```tyron as open source software```
 
-```social enterprise``` Tyron's vision is to create a nonprofit open organization to manage this project.
+**Social enterprise**- Tyron's vision is to create a nonprofit open organization to manage this project.
 ### Values
 :zap: To work to mitigate global warming.
 
@@ -60,14 +60,14 @@ Profits will fund sustainable projects to mitigate global warming. Users will al
 
 ## Engineering
 ### Proof-of-Concept 1: _Own Your Data_
-Tyron will leverage self-sovereign identity (**SSI**) to give data sovereignty to their users' cryptographic identities.
+Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty to their users' cryptographic identities.
 
-**Blockchain** will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.
+```Blockchain``` will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.
 
 ### Proof-of-Concept 2: _Sell Your Data_
-What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
+What if you could sha``` your market data for machine learning and influence where resources shall be allocated? Sustainability is key and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
 
-Storage of your data is also key and tyron agents provide the software in compliance with open source **Hyperledger Aries** of the Linux Foundation. 
+Storage of your data is also key and tyron agents provide the software in compliance with open source ```Hyperledger Aries``` of the Linux Foundation. 
 
 ---
 
