@@ -5,7 +5,7 @@ Do you believe that digitalization can improve our democracy and financial syste
 ### INDEX
 [The problem](#the-problem)
 
-[What is tyron](#what-is-tyron)
+[What is tyron?](#what-is-tyron)
 
 [Purpose of tyron](#purpose)
  * [Vision](#vision)
@@ -45,7 +45,7 @@ To give people the ownership of their data.
 ### Vision
 ```tyron as open source software```
 
-**Social enterprise**- Tyron's vision is to create a nonprofit open organization to manage this project.
+**Social enterprise** - Tyron's vision is to create a nonprofit open organization to manage this project.
 ### Values
 :zap: To work to mitigate global warming.
 
@@ -64,10 +64,12 @@ Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty
 
 ```Blockchain``` will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.
 
-### Proof-of-Concept 2: _Sell Your Data_
-What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
+How you store your data is decisive to claim ownership. Your digital identity gives you the secret keys to make such claims and the software that manages the storage of your data is your tyron agent. Tyron agents shall be in compliance with ```Hyperledger``` blockchain technologies.
 
-Storage of your data is also key and tyron agents provide the software in compliance with open source ```Hyperledger Aries``` of the Linux Foundation. 
+### Proof-of-Concept 2: _Sell Your Data_
+What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key, and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
+
+_More info coming soon. Stay tuned._
 
 ---
 
