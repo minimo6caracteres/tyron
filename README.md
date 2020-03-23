@@ -2,7 +2,13 @@ Are you worried about how companies use your data?
 
 Do you believe that digitalization can improve our democracy and financial systems?
 
-Then, tyron is the solution for you. Tyron aims to counteract some of the modern issues of who really owns your data and how it's used. Unfortunately for us as users, we still have very limited control of how much and to which extent our private inforamtion is being processed. But with tyron, your individual power is restored. As a network, it allows you to act freely and protected and with full control of your data. But why do we need more data protection? And how is tyron specifically going to solve that? 
+Then, tyron is the solution for you. 
+
+Tyron aims to counteract some of the modern issues of who owns your data and how it's used. Unfortunately, we users have very limited control of how much and to which extent our private information is being processed.
+
+The tyron.network wants to grant the power of data ownership to you, the end-user. Empowering you to have control over your data.
+
+But why do we need more data protection? And how is tyron specifically going to solve that? 
 
 ### INDEX
 [The problem](#the-problem)
@@ -19,7 +25,7 @@ Then, tyron is the solution for you. Tyron aims to counteract some of the modern
 ---
 
 ## The Problem
-When shopping online, private companies gather a lot of your personal information. But sometimes, the information they require seems unnecessary - why do I need to disclose my gender when buying a book? And why do they need my phone number if they are not going to use it to communicate with me directly? There are many other examples of this - users giving an unnecessary amount of data away for free. But your data has an immense value! You're just not getting anything for it. 
+When shopping online, private companies gather a lot of your personal information. Many times, the information they require seems unnecessary - why do I need to disclose my gender when buying a book? And why do they want my phone number if they rarely use it to communicate with me directly? There are many other examples of users giving away an unnecessary amount of data, for free. But your data has an immense value! You're just not getting any money for it. 
 
 Data is valuable because it can be used to develop and improve products and services on the basis of feedback and user information. It should be our right to know exactly how, not just as a default option when you act online. And the problem is much larger than e-commerce: private data has been strategically used in democratic elections. The question of whether we can trust companies with our data is exigent.
 
