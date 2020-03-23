@@ -1,6 +1,6 @@
 Are you worried about how companies use your data? Do you believe that digitalization can improve our democracy and financial systems?
 
-Then, tyron is the solution for you. Tyron aims to counteract some of the modern issues of who owns your data and how they use it. So far, we users don't have enough control of how much and to which extent third parties process our private information. That's about to change.
+Then, tyron is the solution for you. Tyron aims to counteract some of the modern issues of who owns your data and how they use it. So far, we users don't have enough control of how much and to which extent companies process our private information. That's about to change.
 
 The tyron.network will grant the power of data ownership to you, the end-user, empowering you to have control over your data.
 
