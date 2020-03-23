@@ -16,7 +16,7 @@ But why do we need more data protection? And how is tyron specifically going to 
  * [Values](#values)
  * [Profits](#profits)
  
-[Tyron's engineering](#tyron's-engineering)
+[Tyron's engineering](#tyrons-engineering)
 
 ---
 
