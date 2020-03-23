@@ -21,7 +21,7 @@ But why do we need more data protection? And how is tyron specifically going to 
 ---
 
 ## The problem
-When shopping online, private companies gather a lot of your personal information. Many times, the information they require seems unnecessary - why do I need to disclose my gender when buying a book? And why do they want my phone number if they rarely use it to contact me? There are many examples of users giving away an unnecessary amount of data, for free. But your data has an immense value! You're just not getting any money for it.
+When shopping online, companies gather a lot of your personal information. Many times the data they require seems unnecessary - why do I need to disclose my gender when buying a book? And why do they want my phone number if they rarely use it to contact me? There are many examples of users giving away an unnecessary amount of data, for free. But your data has an immense value! You're just not getting any money for it.
 
 Data is valuable because we can use it to develop and improve products and services based on feedback and user information. It should be our right to understand how private companies are making profits of our personal data - without having to read overly wordy "privacy policies". 
 
