@@ -7,7 +7,7 @@ Do you believe that digitalization can improve our democracy and financial syste
 
 [What is tyron?](#what-is-tyron)
 
-[Purpose of tyron](#purpose)
+[The purpose of tyron](#purpose) ```=> To give people the ownership of their data.```
  * [Vision](#vision)
  * [Values](#values)
  * [Profits](#profits)
@@ -38,10 +38,18 @@ Empower your world.
 
 ---
 
-## Purpose
+## The purpose
 ```
 To give people the ownership of their data.
 ```
+Ownership of your data means exclusive rights and control over your data.
+
+:zap: The right to prove your identity with a _root of trust_ sytem that is not controlled by a private company. A system that relies upon computer code and decentralized technologies like blockchain.
+
+:zap: The right to have an online identity that protects your privacy against unwanted data collectors and surveillance.
+
+:zap: The right to control your data deciding how and where it is stored and managed.
+
 ### Vision
 ```tyron as open source software```
 
@@ -64,7 +72,7 @@ Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty
 
 ```Blockchain``` will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.
 
-How you store your data is decisive to claim ownership. Your digital identity gives you the secret keys to make such claims and the software that manages the storage of your data is your tyron agent. Tyron agents shall be in compliance with ```Hyperledger``` blockchain technologies.
+How you store your data is decisive to claim ownership. Your tyron.identity gives you the secret keys to make such claims and the software that manages the storage of your data is your tyron.agent. Tyron agents can be stored in your phone and shall comply with ```Hyperledger``` blockchain technologies.
 
 ### Proof-of-Concept 2: _Sell Your Data_
 What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key, and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
