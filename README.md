@@ -1,3 +1,5 @@
+<img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="120" height="120" />
+
 Are you worried about how companies use your data? Do you believe that digitalization can improve our democracy and financial systems?
 
 Then, tyron is the solution for you. Tyron aims to counteract some of the modern issues of who owns your data and how they use it. So far, we users don't have enough control of how much and to which extent companies process our private information. That's about to change.
@@ -42,8 +44,6 @@ Using tyron, all the data you create is encrypted with your secret keys.
 Own your data,
 Empower your world.
 ```
-<img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="100" height="100" />
-
 > :zap: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
 ## The purpose of tyron
