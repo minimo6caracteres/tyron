@@ -20,21 +20,21 @@ But why do we need more data protection? And how is tyron specifically going to 
 
 ---
 
-## The Problem
+## The problem
 When shopping online, private companies gather a lot of your personal information. Many times, the information they require seems unnecessary - why do I need to disclose my gender when buying a book? And why do they want my phone number if they rarely use it to contact me? There are many examples of users giving away an unnecessary amount of data, for free. But your data has an immense value! You're just not getting any money for it.
 
 Data is valuable because we can use it to develop and improve products and services based on feedback and user information. It should be our right to understand how private companies are making profits of our personal data - without having to read overly wordy "privacy policies". 
 
 Every time you want to buy from an online shop you have to use an account managed by them and they can store your data for a long time. What if instead of many usernames and passwords, you could use your tyron.identity to represent you? An identity that proves itself on a decentralized computer system and allows you to create different identifiers depending on who you're transacting with.
 
-The problem is much larger than e-commerce: private data has been used to manipulate democratic elections. The question of whether we can trust companies with our data is urgent. Without transparency from the companies and options for the user to make a different choice, the problem of data misuse remains. But with tyron, the digital world could look much different for you. You could own your data.
+The problem is much larger than e-commerce: private data has been used to manipulate democratic elections. The question of whether we can trust companies with our data is urgent. Without transparency from the companies and options for the user to make a different choice, the problem of data misuse remains. But with tyron, the digital world could look much different for you. You could own your data - and even sell it if you want to.
 
 ---
 
 ## What is tyron?
 Tyron is a blockchain service for you, the end-user.
 
-Tyron wants to build an e-commerce network for peer-to-peer transactions where you own your identity and private information. For each company you interact with, you could create a unique digital persona. From your account, you could manage all your personas and decide what personal information they have access to.
+Tyron wants to build an e-commerce network for peer-to-peer transactions where you own your identity and private information. For each company you interact with, you could create a unique digital identifier. From your account, you could manage all your identifiers and decide what personal information they have access to.
 
 Using tyron, all the data you create is encrypted with your secret keys.
 
