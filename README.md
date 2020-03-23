@@ -87,7 +87,6 @@ What if you could share your market data for machine learning and influence wher
 
 _Stay tuned._
 
----
 
 Learn more about tyron's [engineering](/engineering/engineering.md)!
 
