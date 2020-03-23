@@ -61,7 +61,7 @@ Ownership of your data means exclusive rights and control over your data.
 ### Vision
 ```tyron as open source software```
 
-**Social enterprise** - Tyron's vision is to create a nonprofit open organization to manage this project.
+**Social enterprise**: Tyron's vision is to create a nonprofit open organization to manage this project.
 ### Values
 :zap: To work to mitigate global warming.
 
@@ -86,7 +86,6 @@ How you store your data is decisive to claim ownership. Your tyron.identity give
 What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key, and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
 
 _Stay tuned._
-
 
 Learn more about tyron's [engineering](/engineering/engineering.md)!
 
