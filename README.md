@@ -77,7 +77,7 @@ How you store your data is decisive to claim ownership. Your tyron.identity give
 ### Proof-of-Concept 2: _Sell Your Data_
 What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key, and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
 
-_More info coming soon. Stay tuned._
+_Stay tuned._
 
 ---
 
