@@ -34,7 +34,7 @@ The problem is much larger than e-commerce: private data has been used to manipu
 ## What is tyron?
 Tyron is a blockchain service for you, the end-user.
 
-Tyron wants to build an e-commerce network for peer-to-peer transactions where you own your identity and private information. For each company you interact with, you could create a unique digital identifier. From your account, you could manage all your identifiers and decide what personal information they have access to.
+Tyron is building an e-commerce network for peer-to-peer transactions where you own your identity and private information. For each company you interact with, you could create a unique digital identifier. From your account, you could manage all your identifiers and decide what personal information they have access to.
 
 Using tyron, all the data you create is encrypted with your secret keys.
 
