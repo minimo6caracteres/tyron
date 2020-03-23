@@ -46,8 +46,6 @@ Empower your world.
 
 > :zap: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
----
-
 ## The purpose
 ```
 To give people the ownership of their data.
@@ -96,3 +94,6 @@ Learn more about tyron's [engineering](/engineering/engineering.md)!
 ---
 
 Please [contribute](/ecosystem/contribute.md) :high_brightness:
+
+---
+
