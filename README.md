@@ -11,12 +11,12 @@ But why do we need more data protection? And how is tyron specifically going to 
 
 [What is tyron?](#what-is-tyron)
 
-[The purpose of tyron](#purpose) ```=> To give people the ownership of their data.```
+[The purpose of tyron](#the-purpose-of-tyron) ```=> To give people the ownership of their data.```
  * [Vision](#vision)
  * [Values](#values)
  * [Profits](#profits)
  
-[Engineering](#engineering)
+[Tyron's engineering](#tyron's-engineering)
 
 ---
 
@@ -46,7 +46,7 @@ Empower your world.
 
 > :zap: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
-## The purpose
+## The purpose of tyron
 ```
 To give people the ownership of their data.
 ```
@@ -74,7 +74,7 @@ Profits will fund sustainable projects to mitigate global warming. Users will al
 
 ---
 
-## Engineering
+## Tyron's engineering
 ### Proof-of-Concept 1: _Own your data_
 Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty to their users' cryptographic identities.
 
