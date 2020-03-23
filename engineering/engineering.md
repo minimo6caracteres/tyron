@@ -2,9 +2,9 @@
 
 ---
 
-Tyron's design implements several cutting-edge technologies, many of them in active development by the open source community.
+Tyron's design implements several cutting-edge technologies, many of them in active development by open source communities.
 
-## Tyron's Stack
+## Tyron's stack
 ```
 |------------------------------------------------------------------------------------------------|
 |                                        |--> Hyperledger Aries                                  |
@@ -23,7 +23,7 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 |------------------------------------------------------------------------------------------------|
 
 ```
-- [Hyperledger Aries](https://github.com/hyperledger/aries)
+- [Hyperledger Aries](https://github.com/hyperledger/aries): Hosted at [The Linux Foundation](https://www.linuxfoundation.org/), the [Hyperledger](https://www.hyperledger.org/) open source projects focus on enterprise-grade blockchain deployments. 
 
 ---
 
