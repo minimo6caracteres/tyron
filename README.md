@@ -25,7 +25,7 @@ When shopping online, companies gather a lot of your personal information. Many 
 
 Data is valuable because we can use it to develop and improve products and services based on feedback and user information. It should be our right to understand how private companies are making profits of our personal data - without having to read overly wordy "privacy policies". 
 
-Every time you want to buy from an online shop you have to use an account managed by them and they can store your data for a long time. What if instead of many usernames and passwords, you could use your tyron.identity to represent you? An identity that proves itself on a decentralized computer system and allows you to create different identifiers depending on who you're transacting with.
+Every time you want to buy from an online shop you have to use an account managed by them and they can store your data for a long time. What if instead of many usernames and passwords, you could use your tyron.identity to represent you? An identity that proves itself by using a decentralized computer system and allows you to create different identifiers depending on who you're transacting with.
 
 The problem is much larger than e-commerce: private data has been used to manipulate democratic elections. The question of whether we can trust companies with our data is urgent. Without transparency from the companies and options for the user to make a different choice, the problem of data misuse remains. But with tyron, the digital world could look much different for you. You could own your data - and even sell it if you want to.
 
