@@ -27,18 +27,18 @@ When shopping online, companies gather a lot of your personal information. Many 
 
 Data is valuable because we can use it to develop and improve products and services based on feedback and user information. It should be our right to understand how private companies are making profits of our personal data - without having to read overly wordy "privacy policies". 
 
-Every time you want to buy from an online shop you have to use an account managed by them and they can store your data for a long time. What if instead of many usernames and passwords, you could use your tyron.identity to represent you? An identity that proves itself by using a decentralized computer system and allows you to create different identifiers depending on who you're transacting with.
-
-The problem is much larger than e-commerce: private data has been used to manipulate democratic elections. The question of whether we can trust companies with our data is urgent. Without transparency from the companies and options for the user to make a different choice, the problem of data misuse remains. But with tyron, the digital world could look much different for you. You could own your data - and even sell it if you want to.
+The problem is much larger than e-commerce: private data has been used to manipulate democratic elections. The question of whether we can trust companies with our data is urgent. Without transparency from the companies and options for the user to make a different choice, the problem of data misuse remains. But with tyron, the digital world could look much different for you. You could own your data - and even sell it, if you want to.
 
 ---
 
 ## What is tyron?
-Tyron is a blockchain service for you, the end-user.
+Tyron is an e-commerce service for you, the end-user. An online platform where you could buy - and sell - products and services. The platform has 3 pillars: identity, network and communication. 
 
-Tyron is building an e-commerce network for peer-to-peer transactions where you own your identity and private information. For each company you interact with, you could create a unique digital identifier. From your account, you could manage all your identifiers and decide what personal information they have access to.
-
-Using tyron, all the data you create is encrypted with your secret keys.
+ - **tyron.identity**: Every time you want to buy from an online shop you have to use an account managed by them and they can store your data for a long time. What if instead of many usernames and passwords, you could use your self-sovereign identity (SSI)? An identity that is anchored in an open source computer system that allows you to manage your privacy by creating different identifiers. For each company you interact with, you could create a unique digital identifier. From your account, you could manage all your identifiers and decide what personal information they have access to.
+ 
+ - **tyron.network**: An e-commerce network of blockchains for peer-to-peer transactions where you own your identity and private information. Using tyron, all the data you create is encrypted with your secret keys.
+ 
+ - **tyron.communication**
 
 ```
 Own your data,
