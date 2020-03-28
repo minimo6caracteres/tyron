@@ -61,7 +61,7 @@ Ownership of your data means exclusive rights and control over your data.
 ### Vision
 ```tyron as open source software```
 
-**Social enterprise**: Tyron's vision is to create a nonprofit open organization to manage this project.
+**Social enterprise**: Tyron's vision is to create a nonprofit open organization to manage the projects.
 ### Values
 :zap: To work to mitigate global warming.
 
