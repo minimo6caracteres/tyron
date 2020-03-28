@@ -49,4 +49,4 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 
 <a href="/">Back to homepage</a>
 
-To contribute with tyron's POC1 [check this out](/POCs/POC1.md)
+To contribute with tyron's POC1 [check this out](/engineering/POCs/POC1.md)
