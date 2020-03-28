@@ -1,4 +1,4 @@
-## Tyron's proof-of-concept "Own your data" (POC1) 
+## Tyron's proof-of-concept "Own your data" - POC1
 Let's explore the features and feasibility of them as well as the functionality of tyron's POC1.
 ### Product features
  - Product: E-commerce app for peer-to-peer transactions where the user owns their data. 
