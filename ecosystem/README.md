@@ -7,3 +7,5 @@ There are several key areas to develop, to name a few:
 - Communication 
 - Marketing 
 - Legal & compliance
+
+More info coming soon!
