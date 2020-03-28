@@ -10,6 +10,7 @@ Let's explore the features and feasibility of them as well as the functionality 
   <ol> Self-sovereign identity (SSI)</ol>
   <ol> Blockchain, distributed ledger technology (DLT)</ol>
   <ol> Rust & Web-Assembly</ol>
+ </li> 
   
 More coming soon! 
   
