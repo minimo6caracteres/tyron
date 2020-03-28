@@ -32,9 +32,9 @@ The problem is much larger than e-commerce: private data has been used to manipu
 ---
 
 ## What is tyron?
-Tyron is an e-commerce service for you, the end-user. An online platform where you could buy - and sell - products and services. The platform has 3 pillars: identity, network and communication. 
+Tyron is an e-commerce service for you, the end-user. An app where you could buy - and sell - products and services, as well as data, the data that you own. Tyron has 3 pillars: identity, network and communication. 
 
- - **tyron.identity**: Every time you want to buy from an online shop you have to use an account managed by them and they can store your data for a long time. What if instead of many usernames and passwords, you could use your self-sovereign identity (SSI)? An identity that is anchored in an open source computer system that allows you to manage your privacy by creating different identifiers. For each company you interact with, you could create a unique digital identifier. From your account, you could manage all your identifiers and decide what personal information they have access to.
+ - **tyron.identity**: Every time you want to buy from an online shop you have to use an account managed by them and they can store your data for a long time. What if instead of many usernames and passwords, you could use your self-sovereign identity (SSI)? A digital identity anchored in a system that allows you to manage your privacy by creating different decentralized identifiers (DIDs). For each company you communicate with, you could create a unique DID and decide what private information they have access to.
  
  - **tyron.network**: An e-commerce network of blockchains for peer-to-peer transactions where you own your identity and private information. Using tyron, all the data you create is encrypted with your secret keys.
  
@@ -52,9 +52,9 @@ To give people the ownership of their data.
 ```
 Ownership of your data means exclusive rights and control over your data.
 
-:zap: The right to prove your identity with a _root of trust_ sytem that is not controlled by a private company. A system that relies upon computer code and decentralized technologies like blockchain.
+:zap: The right to prove your identity with a digital system that is not controlled by a private company. A system that relies upon open source code and decentralized technologies like blockchain.
 
-:zap: The right to have an online identity that protects your privacy against unwanted data collectors and surveillance.
+:zap: The right to have a digital identity that protects your privacy against unwanted data collectors and surveillance.
 
 :zap: The right to control your data deciding how and where it is stored and managed.
 
