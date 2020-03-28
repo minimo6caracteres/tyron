@@ -19,6 +19,7 @@ But why do we need more data protection? And how is tyron specifically going to 
  * [Profits](#profits)
  
 [Tyron's engineering](#tyrons-engineering)
+
 [Lead contributors](/ecosystem/contribute.md):zap:
 
 ---
