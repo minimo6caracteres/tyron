@@ -13,16 +13,18 @@ Let's explore the features and feasibility of them as well as the functionality 
 More coming soon! 
   
   Please add your contribution: 
-| Feature number | Idea (short description) - more below                           | username      |
-|----------------|-----------------------------------------------------------------|---------------|
-|                |                                                                 |               |      
-|                |                                                                 |               |      
-|                |                                                                 |               |      
-|                |                                                                 |               |      
-|                |                                                                 |               |      
-|                |                                                                 |               |      
-|                |                                                                 |               |      
-|                |                                                                 |               |      
-|                |                                                                 |               |      
-|                |                                                                 |               |      
-|                |                                                                 |               |
+| Feature number | Idea (short description) - more below                                                    | username      |
+|----------------|------------------------------------------------------------------------------------------|---------------|
+|                |                                                                                          |               | 
+|                |                                                                                          |               | 
+|                |                                                                                          |               | 
+|                |                                                                                          |               | 
+|                |                                                                                          |               | 
+|                |                                                                                          |               | 
+|                |                                                                                          |               | 
+|                |                                                                                          |               | 
+|                |                                                                                          |               | 
+|                |                                                                                          |               | 
+|                |                                                                                          |               | 
+|                |                                                                                          |               | 
+|                |                                                                                          |               | 
