@@ -6,11 +6,11 @@ Let's explore the features and feasibility of them as well as the functionality 
  - Vision: ```tyron as open source software``` and tyron as a social enterprise, a nonprofit open organization to manage the projects.
  
  List of key features:
- <li>
-  <ol> Self-sovereign identity (SSI)</ol>
-  <ol> Blockchain, distributed ledger technology (DLT)</ol>
-  <ol> Rust & Web-Assembly</ol>
- </li> 
+ <ol>
+  <li> Self-sovereign identity (SSI)</li>
+  <li> Blockchain, distributed ledger technology (DLT)</li>
+  <li> Rust & Web-Assembly</li>
+ </ol> 
   
 More coming soon! 
   
