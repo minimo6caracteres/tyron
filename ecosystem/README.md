@@ -1,11 +1,4 @@
-Hola!
+## Tyron's ecosystem :rainbow: 
+Everyone is welcome, no matter your background or technical expertise but your actions and contributions. That's meritocracy for tyron :rainbow: the power of your ideas! You're also welcome to help to rethink but don't overthink, it has to be simple enough for everyone.
 
-It'd be amazing to have your ideas contributing to tyron and helping achieve its [vision](https://www.tyron.network/#vision):zap:
-
-There are several key areas to develop, to name a few: 
-- Engineering - software, blockchain, project development, environmental engineering, etc. 
-- Communication 
-- Marketing 
-- Legal & compliance
-
-More info coming soon!
+Make a pull request and please share what ecosystem would mean for [tyron](/tyron). 
