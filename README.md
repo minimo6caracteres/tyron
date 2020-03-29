@@ -20,7 +20,7 @@ But why do we need more data protection? And how is tyron specifically going to 
  
 [Tyron's engineering](#tyrons-engineering)
 
-[Lead contributors](/ecosystem/contribute.md):zap:
+[How to contribute](/ecosystem/contribute.md):zap:
 
 ---
 
