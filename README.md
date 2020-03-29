@@ -13,7 +13,7 @@ But why do we need more data protection? And how is tyron specifically going to 
 
 [What is tyron?](#what-is-tyron)
 
-[The purpose of tyron](#the-purpose-of-tyron) ```=> To give people the ownership of their data.```
+[The purpose of tyron](#the-purpose-of-tyron) ```=> To give people the ownership of their data```
  * [Vision](#vision)
  * [Values](#values)
  * [Profits](#profits)
