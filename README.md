@@ -65,9 +65,9 @@ Ownership of your data means exclusive rights and control over your data.
 
 **Social enterprise**: Tyron's vision is to create a nonprofit open organization to manage the projects.
 ### Values
-:zap: To work to mitigate global warming.
+:recycle: To work to mitigate global warming.
 
-:zap: To advocate for data rights as human rights.
+:recycle: To advocate for data rights as human rights.
 
 ### Profits
 The end-users pay for the service through transaction fees.
