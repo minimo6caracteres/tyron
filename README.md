@@ -40,7 +40,7 @@ Tyron is an e-commerce service for you, the end-user. An app where you could buy
  
 :zap: **tyron.network**: An e-commerce network of blockchains for peer-to-peer transactions where you own your identity and private information. Using tyron, all the data you create is encrypted with your secret keys.
 
-:zap: **tyron.communication**
+:zap: **tyron.communication**: coming soon!
 
 ```
 Own your data,
