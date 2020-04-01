@@ -47,6 +47,6 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 
 ---
 
-<a href="/">Back to homepage</a>
+><a href="/">> Back to homepage</a>
 
 :zap: To contribute with tyron's proof-of-concept 1 [check this out!](https://github.com/tyronNetwork/tyron/blob/master/engineering/POCs/POC1.md)
