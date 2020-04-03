@@ -2,7 +2,7 @@
 
 ---
 
-## Tyron's engineering
+# Tyron's engineering
 ### Proof-of-Concept 1: _Own your data_
 Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty to their users' cryptographic identities.
 
