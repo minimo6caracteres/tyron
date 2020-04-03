@@ -8,7 +8,7 @@
 
 [Proof-of-concept 1: Own your data](#proof-of-concept-1-own-your-data)
 
-[Proof-of-concept 2: Sell your data](#proof-of-concept-1-own-your-data)
+[Proof-of-concept 2: Sell your data](#proof-of-concept-2-sell-your-data)
 
 [Tyron's stack](#tyrons-stack)
 
