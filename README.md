@@ -1,7 +1,7 @@
 <img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="120" height="120" />
 
 ```
-Own your data,
+Own your data;
 Empower your world!
 ```
 
