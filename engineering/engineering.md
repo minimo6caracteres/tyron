@@ -4,6 +4,11 @@
 
 # Tyron's engineering :zap:
 
+```
+Own your data;
+Empower your world!
+```
+
 ### INDEX
 
 [Proof-of-concept 1: Own your data](#proof-of-concept-1-own-your-data)
@@ -11,6 +16,8 @@
 [Proof-of-concept 2: Sell your data](#proof-of-concept-2-sell-your-data)
 
 [Tyron's stack](#tyrons-stack)
+
+---
 
 ## Proof-of-Concept 1: _Own your data_
 Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty to their users' cryptographic identities.
