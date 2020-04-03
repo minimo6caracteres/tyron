@@ -1,5 +1,11 @@
 <img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="120" height="120" />
 
+```
+Own your data,
+Empower your world!
+```
+
+
 Are you worried about how companies use your data? Do you believe that digitalization can improve our democracy and financial systems?
 
 Then, tyron is the solution for you. Tyron aims to counteract some of the modern issues of who owns your data and how they use it. So far, we users don't have enough control of how much and to which extent companies process our private information. That's about to change.
@@ -13,14 +19,11 @@ But why do we need more data protection? And how is tyron specifically going to 
 
 [What is tyron?](#what-is-tyron)
 
-[The purpose of tyron](#the-purpose-of-tyron) ```=> To give people the ownership of their data```
- * [Vision](#vision)
- * [Values](#values)
- * [Profits](#profits)
- 
-[Tyron's engineering](/engineering/engineering.md):zap:
+[The purpose of tyron](#the-purpose-of-tyron)
 
-[How to contribute](/ecosystem/contribute.md):high_brightness:
+[Tyron's engineering](/engineering/engineering.md) :zap:
+
+[How to contribute](/ecosystem/contribute.md) :high_brightness:
 
 ---
 
@@ -42,11 +45,12 @@ Tyron is an e-commerce service for you, the end-user. An app where you could buy
 
 :zap: **tyron.communication**: coming soon!
 
+> :mag: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
+
 ```
 Own your data,
 Empower your world.
 ```
-> :mag: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
 ## The purpose of tyron
 ```
