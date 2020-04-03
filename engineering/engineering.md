@@ -4,7 +4,7 @@
 
 # Tyron's engineering :zap:
 
-INDEX
+### INDEX
 
 [Proof-of-concept 1: Own your data](#proof-of-concept-1-own-your-data)
 
