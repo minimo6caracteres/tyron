@@ -12,8 +12,6 @@
 
 [Tyron's stack](#tyrons-stack)
 
-[How to contribute](/community/contribute.md) :high_brightness:
-
 ### Proof-of-Concept 1: _Own your data_
 Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty to their users' cryptographic identities.
 
