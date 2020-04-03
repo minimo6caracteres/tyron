@@ -23,7 +23,7 @@ But why do we need more data protection? And how is tyron specifically going to 
 
 [Tyron's engineering](/engineering/engineering.md) :zap:
 
-[How to contribute](/ecosystem/contribute.md) :high_brightness:
+[How to contribute](/community/contribute.md) :high_brightness:
 
 ---
 
@@ -84,6 +84,6 @@ Profits will fund sustainable projects to mitigate global warming. Users will al
 
 ---
 
-Please [contribute](/ecosystem/contribute.md) :high_brightness:
+Please [**contribute**](/community/contribute.md) :high_brightness:
 
 ---
