@@ -18,9 +18,9 @@ But why do we need more data protection? And how is tyron specifically going to 
  * [Values](#values)
  * [Profits](#profits)
  
-[Tyron's engineering](#tyrons-engineering)
+[Tyron's engineering](/engineering/engineering.md):zap:
 
-[How to contribute](/ecosystem/contribute.md):zap:
+[How to contribute](/ecosystem/contribute.md):high_brightness:
 
 ---
 
@@ -76,20 +76,7 @@ Profits will fund sustainable projects to mitigate global warming. Users will al
 
 ---
 
-## Tyron's engineering
-### Proof-of-Concept 1: _Own your data_
-Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty to their users' cryptographic identities.
-
-```Blockchain``` will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.
-
-How you store your data is decisive to claim ownership. Your tyron.identity gives you the secret keys to make such claims and the software that manages the storage of your data is your tyron.agent. Tyron agents can be stored in your phone and shall comply with ```Hyperledger``` blockchain technologies.
-
-### Proof-of-Concept 2: _Sell your data_
-What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key, and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
-
-_Stay tuned._
-
-Learn more about tyron's [engineering](/engineering/engineering.md)!
+:zap: Learn about [**tyron's engineering**](/engineering/engineering.md)!
 
 ---
 
