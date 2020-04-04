@@ -19,8 +19,8 @@ There are several key areas to develop, to name a few:
 - Design & Marketing: First impressions are important, to optimize them [come here!](./contributors/design&marketing.md)
 - Legal & compliance: tyron has to be legit and transparent, [join here!](./contributors/legal&compliance.md)
 
-It'd be great to have you as a tyron lead contributor. There are unlimited opportunitites, and you are encouraged to learn how to [contribute here](/howToContribute.md) :zap:
+It'd be great to have you as a tyron lead contributor. There are unlimited opportunitites, and you are encouraged to learn how to [contribute here](./howToContribute.md) :zap:
 
 ---
 
-> <a href="/">> Back to homepage</a>
+> <a href="/"> > Back to homepage </a>
