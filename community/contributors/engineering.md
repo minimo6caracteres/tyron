@@ -5,4 +5,5 @@ More info coming soon!
 
 ---
 
-> <a href="/">> Back to Community</a>
+> <a href="/community"> > Back to Community </a> :high_brightness:
+>> < a href="/"> > Back to homepage </a> :zap:
