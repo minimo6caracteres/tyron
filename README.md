@@ -20,7 +20,7 @@ But why do we need more data protection? And how is tyron specifically going to 
 
 [The purpose of tyron](#the-purpose-of-tyron)
 
-[Tyron's engineering](/engineering/engineering.md) :zap:
+[Tyron's engineering](/engineering/README.md) :zap:
 
 [How to contribute](/community/README.md) :high_brightness:
 
