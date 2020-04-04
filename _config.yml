@@ -1,11 +1,3 @@
-title: tyron - Own your data; Empower your world!
-description: >- # this means to ignore newlines until "baseurl:"
-  Stay tuned!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tyron.network" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: idtyron
-github_username: tyronNetwork
-
 markdown: kramdown
 theme: jekyll-theme-hacker
 plugins:
