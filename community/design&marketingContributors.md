@@ -1,7 +1,0 @@
-## Design & Marketing Contributors
-
-More info coming soon!
-
----
-
-> <a href="/">> Back to Community</a>
