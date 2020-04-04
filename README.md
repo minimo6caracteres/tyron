@@ -1,5 +1,10 @@
 <img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="120" height="120" />
 
+```
+Own your data;
+Empower your world!
+```
+
 Are you worried about how companies use your data? Do you believe that digitalization can improve our democracy and financial systems?
 
 Then, tyron is the solution for you. Tyron aims to counteract some of the modern issues of who owns your data and how they use it. So far, we users don't have enough control of how much and to which extent companies process our private information. That's about to change.
@@ -13,12 +18,11 @@ But why do we need more data protection? And how is tyron specifically going to 
 
 [What is tyron?](#what-is-tyron)
 
-[The purpose of tyron](#the-purpose-of-tyron) ```=> To give people the ownership of their data.```
- * [Vision](#vision)
- * [Values](#values)
- * [Profits](#profits)
- 
-[Tyron's engineering](#tyrons-engineering)
+[The purpose of tyron](#the-purpose-of-tyron)
+
+[Tyron's engineering](/engineering/engineering.md) :zap:
+
+[How to contribute](/community/README.md) :high_brightness:
 
 ---
 
@@ -34,17 +38,18 @@ The problem is much larger than e-commerce: private data has been used to manipu
 ## What is tyron?
 Tyron is an e-commerce service for you, the end-user. An app where you could buy - and sell - products and services, as well as data, the data that you own. Tyron has 3 pillars: identity, network and communication. 
 
- - **tyron.identity**: Every time you want to buy from an online shop you have to use an account managed by them and they can store your data for a long time. What if instead of many usernames and passwords, you could use your self-sovereign identity (SSI)? A digital identity anchored in a system that allows you to manage your privacy by creating different decentralized identifiers (DIDs). For each company you communicate with, you could create a unique DID and decide what private information they have access to.
+:zap: **tyron.identity**: Every time you want to buy from an online shop you have to use an account managed by them and they  can store your data for a long time. What if instead of many usernames and passwords, you could use your self-sovereign identity (SSI)? A digital identity anchored in a system that allows you to manage your privacy by creating different decentralized identifiers (DIDs). For each company you communicate with, you could create a unique DID and decide what private information they have access to.
  
- - **tyron.network**: An e-commerce network of blockchains for peer-to-peer transactions where you own your identity and private information. Using tyron, all the data you create is encrypted with your secret keys.
- 
- - **tyron.communication**
+:zap: **tyron.network**: An e-commerce network of blockchains for peer-to-peer transactions where you own your identity and private information. Using tyron, all the data you create is encrypted with your secret keys.
+
+:zap: **tyron.communication**: coming soon!
+
+> :mag: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
 ```
-Own your data,
-Empower your world.
+Own your data;
+Empower your world!
 ```
-> :zap: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
 ## The purpose of tyron
 ```
@@ -52,20 +57,21 @@ To give people the ownership of their data.
 ```
 Ownership of your data means exclusive rights and control over your data.
 
-:zap: The right to prove your identity with a digital system that is not controlled by a private company. A system that relies upon open source code and decentralized technologies like blockchain.
+- The right to prove your identity with a digital system that is not controlled by a private company. A system that relies upon open source code and decentralized technologies like blockchain.
 
-:zap: The right to have a digital identity that protects your privacy against unwanted data collectors and surveillance.
+- The right to have a digital identity that protects your privacy against unwanted data collectors and surveillance.
 
-:zap: The right to control your data deciding how and where it is stored and managed.
+- The right to control your data deciding how and where it is stored and managed.
 
 ### Vision
 ```tyron as open source software```
 
-**Social enterprise**: Tyron's vision is to create a nonprofit open organization to manage the projects.
-### Values
-:zap: To work to mitigate global warming.
+**Social enterprise**: Tyron's vision is to create a **nonprofit & open organization** to manage the projects.
 
-:zap: To advocate for data rights as human rights.
+### Values
+:recycle: To advocate for data rights as human rights.
+
+:recycle: To use profits to work to mitigate global warming.
 
 ### Profits
 The end-users pay for the service through transaction fees.
@@ -74,24 +80,10 @@ Profits will fund sustainable projects to mitigate global warming. Users will al
 
 ---
 
-## Tyron's engineering
-### Proof-of-Concept 1: _Own your data_
-Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty to their users' cryptographic identities.
-
-```Blockchain``` will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.
-
-How you store your data is decisive to claim ownership. Your tyron.identity gives you the secret keys to make such claims and the software that manages the storage of your data is your tyron.agent. Tyron agents can be stored in your phone and shall comply with ```Hyperledger``` blockchain technologies.
-
-### Proof-of-Concept 2: _Sell your data_
-What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key, and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
-
-_Stay tuned._
-
-Learn more about tyron's [engineering](/engineering/engineering.md)!
+:zap: Learn about [**tyron's engineering**](/engineering/engineering.md)!
 
 ---
 
-Please [contribute](/ecosystem/contribute.md) :high_brightness:
+Please [**contribute**](/community/README.md) :high_brightness:
 
 ---
-

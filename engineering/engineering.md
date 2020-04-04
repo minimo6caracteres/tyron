@@ -1,10 +1,40 @@
-<a href="/">Back to homepage</a>
+><a href="/">> Back to homepage</a>
 
 ---
 
-Tyron's design implements several cutting-edge technologies, many of them in active development by open source communities.
+# Tyron's engineering :zap:
+
+```
+Own your data;
+Empower your world!
+```
+
+### INDEX
+
+[Proof-of-concept 1: Own your data](#proof-of-concept-1-own-your-data)
+
+[Proof-of-concept 2: Sell your data](#proof-of-concept-2-sell-your-data)
+
+[Tyron's stack](#tyrons-stack)
+
+---
+
+## Proof-of-Concept 1: _Own your data_
+Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty to their users' cryptographic identities.
+
+```Blockchain``` will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.
+
+How you store your data is decisive to claim ownership. Your tyron.identity gives you the secret keys to make such claims and the software that manages the storage of your data is your tyron.agent. Tyron agents can be stored in your phone and shall comply with ```Hyperledger``` blockchain technologies.
+
+:zap: To contribute with tyron's proof-of-concept 1 [check this out!](https://github.com/tyronNetwork/tyron/blob/master/engineering/POCs/POC1.md)
+
+## Proof-of-Concept 2: _Sell your data_
+What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key, and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
+
+_Stay tuned._
 
 ## Tyron's stack
+Tyron's design implements several cutting-edge technologies, many of them in active development by open source communities.
 ```
 |------------------------------------------------------------------------------------------------|
 |                                        |--> Hyperledger Aries                                  |
@@ -47,4 +77,4 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 
 ---
 
-<a href="/">Back to homepage</a>
+><a href="/">> Back to homepage</a>
