@@ -48,8 +48,8 @@ Tyron is an e-commerce service for you, the end-user. An app where you could buy
 > :mag: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
 ```
-Own your data,
-Empower your world.
+Own your data;
+Empower your world!
 ```
 
 ## The purpose of tyron
