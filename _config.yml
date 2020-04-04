@@ -1,3 +1,7 @@
+twitter_username: tyronNetwork
+
+markdown: kramdown
 theme: jekyll-theme-hacker
 plugins:
   - jemoji
+  - jekyll-feed
