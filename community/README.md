@@ -14,7 +14,7 @@ As a nonprofit & open organization :high_brightness:
 > :zap: Meritocracy :zap: no matter your background or technical expertise, **your input is valuable**, so please share your ideas, suggestions, questions, etc. 
 
 There are several key areas to develop, to name a few: 
-- Engineering: For technical problem solvers, [click here!](/contributors/engineering.md)
+- Engineering: For technical problem solvers, [click here!](/community/contributors/engineering.md)
 - Communication & Society: To develop tyron's social concepts, [go here!](/contributors/communication&society.md)
 - Design & Marketing: First impressions are important, to optimize them [come here!](/contributors/design&marketing.md)
 - Legal & compliance: tyron has to be legit and transparent, [join here!](/contributors/legal&compliance.md)
