@@ -1,5 +1,6 @@
 ## Communication & Society Contributors
-Coming soon!
+Possible issues:
+- Citizen Code of Conduct
 
 ---
 
