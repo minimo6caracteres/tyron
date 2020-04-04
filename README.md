@@ -79,7 +79,7 @@ Profits will fund sustainable projects to mitigate global warming. Users will al
 
 ---
 
-:zap: Learn about [**tyron's engineering**](/engineering/README.md)!
+:zap: Learn about [**tyron's engineering!**](/engineering/README.md)
 
 ---
 
