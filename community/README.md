@@ -9,8 +9,8 @@ Make a pull request and share your ideas keeping the following aspects in mind:
 
 - Purpose: To give people the ownership of their data.
 
-- Vision: ```tyron as open source software``` and tyron as a social enterprise, a nonprofit open organization to manage the projects.
+- Vision: ```tyron as open source software``` and tyron as a social enterprise, a nonprofit & open organization to manage the projects.
 
 - Values:
-:recycle: To work to mitigate global warming
 :recycle: To advocate for data rights as human rights
+:recycle: To use profits to work to mitigate global warming!
