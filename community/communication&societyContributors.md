@@ -3,4 +3,4 @@ Coming soon!
 
 ---
 
-> <a href="/">> Back to Community</a>
+> <a href="/community">> Back to Community</a>
