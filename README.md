@@ -5,7 +5,6 @@ Own your data;
 Empower your world!
 ```
 
-
 Are you worried about how companies use your data? Do you believe that digitalization can improve our democracy and financial systems?
 
 Then, tyron is the solution for you. Tyron aims to counteract some of the modern issues of who owns your data and how they use it. So far, we users don't have enough control of how much and to which extent companies process our private information. That's about to change.
@@ -23,7 +22,7 @@ But why do we need more data protection? And how is tyron specifically going to 
 
 [Tyron's engineering](/engineering/engineering.md) :zap:
 
-[How to contribute](/community/contribute.md) :high_brightness:
+[How to contribute](/community/README.md) :high_brightness:
 
 ---
 
@@ -85,6 +84,6 @@ Profits will fund sustainable projects to mitigate global warming. Users will al
 
 ---
 
-Please [**contribute**](/community/contribute.md) :high_brightness:
+Please [**contribute**](/community/README.md) :high_brightness:
 
 ---
