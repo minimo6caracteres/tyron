@@ -74,12 +74,12 @@ Ownership of your data means exclusive rights and control over your data.
 :recycle: To use profits to work to mitigate global warming.
 
 ### Profits
-The end-users pay for the service through transaction fees.  
+The end-user pays for the service through transaction fees.  
 Profits will fund sustainable projects to mitigate global warming. Users will also vote on these projects.
 
 ---
 
-:zap: Learn about [**tyron's engineering**](/engineering/engineering.md)!
+:zap: Learn about [**tyron's engineering**](/engineering/README.md)!
 
 ---
 
