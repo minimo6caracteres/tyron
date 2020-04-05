@@ -10,10 +10,10 @@ To make your contribution, [edit this file on GitHub](https://github.com/tyronNe
 
 | Issue | Description | Idea or question | Username | Status |
 |---|---|---|---|---|
-| This file's [Intro](#intro) | What communication & society mean for [tyron's purpose](https://www.tyron.network/#the-purpose-of-tyron)|
-| Communication strategy |
-| Socialøkonomisk virksomhed - nonprofit & open organization | What does it mean for tyron? <br/> More info [here](https://www.startupsvar.dk/socialoekonomisk-virksomhed) |
-| Guidelines | Brainstorming/edits on all files and guidelines |
+|# This file's [Intro](#intro) | What communication & society mean for [tyron's purpose](https://www.tyron.network/#the-purpose-of-tyron)|
+|# Communication strategy |
+|# Socialøkonomisk virksomhed - nonprofit & open organization | What does it mean for tyron? <br/> More info [here](https://www.startupsvar.dk/socialoekonomisk-virksomhed) |
+|# Guidelines | Brainstorming/edits on all files and guidelines |
 
 ---
 
