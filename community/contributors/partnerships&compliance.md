@@ -1,4 +1,4 @@
-## Partnerships & compliance contributors
+## Partnerships & compliance contributors :high_brightness:
 ### Intro:  
 Tyron will comply with regulations in Denmark and every country where it operates. Partnerships will be fundamental to tyron's market integration.
 
