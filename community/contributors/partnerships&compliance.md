@@ -19,4 +19,5 @@ These are some issues to work on - feel free to add more, share ideas and questi
 ---
 
 > <a href="/community"> > Back to Community </a>
-[link](https://www.tyron.network/)
+
+>> [visit tyron's website](https://www.tyron.network/):zap:
