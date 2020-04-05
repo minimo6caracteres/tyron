@@ -3,7 +3,9 @@ Hej!
 
 It'd be amazing to have your ideas contributing to tyron and helping achieve its [purpose](https://www.tyron.network/#the-purpose-of-tyron): 
 
-```To give people the ownership of their data```
+```
+To give people the ownership of their data
+```
 
 :recycle: To advocate for data rights as human rights
 
@@ -21,7 +23,7 @@ There are several key areas to develop, to name a few:
 - Partnerships & compliance: The synergy of working with the right people makes a difference - and compliance makes it more legit and transparent. [Learn more here!](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/partnerships&compliance.md)
 > If there's an area unmentioned, feel free to [edit this file on GitHub](https://github.com/tyronNetwork/tyron/blob/master/community/README.md), following this [contributing guideline](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md).
 
-It'd be great to have you as a tyron lead contributor. There are unlimited opportunitites, and **you are encouraged to contribute!** :zap:
+It'd be great to have you as a tyron lead contributor. There are unlimited opportunitites, and **you are encouraged to contribute!** :high_brightness:
 
 ---
 
