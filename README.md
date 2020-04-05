@@ -20,7 +20,7 @@ But why do we need more data protection? And how is tyron specifically going to 
 
 [The purpose of tyron](#the-purpose-of-tyron)
 
-[Tyron's engineering](/engineering/engineering.md) :zap:
+[Tyron's engineering](/engineering/README.md) :zap:
 
 [How to contribute](/community/README.md) :high_brightness:
 
@@ -66,7 +66,7 @@ Ownership of your data means exclusive rights and control over your data.
 ### Vision
 ```tyron as open source software```
 
-**Social enterprise**: Tyron's vision is to create a **nonprofit & open organization** to manage the projects.
+**Socialøkonomisk virksomhed**: Incorporated in Denmark, ***Tyron Danmark*** will manage the tyron projects as a nonprofit & open organization, developing innovative efforts with significant social and economic value. 
 
 ### Values
 :recycle: To advocate for data rights as human rights.
@@ -74,13 +74,12 @@ Ownership of your data means exclusive rights and control over your data.
 :recycle: To use profits to work to mitigate global warming.
 
 ### Profits
-The end-users pay for the service through transaction fees.
-
+The end-user pays for the service through transaction fees.  
 Profits will fund sustainable projects to mitigate global warming. Users will also vote on these projects.
 
 ---
 
-:zap: Learn about [**tyron's engineering**](/engineering/engineering.md)!
+:zap: Learn about [**tyron's engineering!**](/engineering/README.md)
 
 ---
 

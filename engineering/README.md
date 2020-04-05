@@ -1,4 +1,4 @@
-><a href="/">> Back to homepage</a>
+> <a href="/"> > Back to homepage </a>
 
 ---
 
@@ -77,4 +77,4 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 
 ---
 
-><a href="/">> Back to homepage</a>
+> <a href="/"> > Back to homepage </a>
