@@ -5,7 +5,7 @@ These are some issues to work on - feel free to make a pull request and add more
 
 | Issue | Description | Idea | Username | Status |
 |---|---|---|---|---|
-|Proof-of-concept 1 | [Go here!](https://github.com/julioCabDu/tyron/blob/master/engineering/POCs/POC1.md)| | |In progess|
+|Proof-of-concept 1 | [POC1 file](https://github.com/julioCabDu/tyron/blob/master/engineering/POCs/POC1.md)| [POC1 file](https://github.com/julioCabDu/tyron/blob/master/engineering/POCs/POC1.md) | [julioCabDu](https://github.com/julioCabDu/) |In progess|
 |Project development |
 |Environment |Environmental impact of tyron.|
 
