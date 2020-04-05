@@ -3,17 +3,17 @@
 Tyron's core is engineering, how to use technology to improve society and the financial systems.
 
 ---
-
-These are some issues to work on - feel free to make a pull request and add more / share ideas. For guidelines on how pull requests work, [read this](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md), and keep in mind tyron's [code of conduct](https://github.com/tyronNetwork/tyron/blob/master/CODE_OF_CONDUCT.md). 
-
+These are some issues to work on - feel free to add more, share ideas and questions.  
 To make your contribution, [edit this file on GitHub](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/engineering.md) :zap:
+
+> Learn how to make pull requests [here](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md), and keep in mind tyron's [code of conduct](https://github.com/tyronNetwork/tyron/blob/master/CODE_OF_CONDUCT.md). Thank you!
 
 | Issue | Description | Idea or question | Username | Status |
 |---|---|---|---|---|
-| This file's [Intro](#intro) | What engineering means for [tyron's purpose](https://www.tyron.network/#the-purpose-of-tyron)|
-|Proof-of-concept 1 | [POC1 file](https://github.com/tyronNetwork/tyron/blob/master/engineering/POCs/POC1.md) | [POC1 file](https://github.com/tyronNetwork/tyron/blob/master/engineering/POCs/POC1.md) | [julioCabDu](https://github.com/julioCabDu/) |In progess|
-|Project development |
-|Environment |Environmental impact of tyron.|
+|# This file's [Intro](#intro) | What engineering means for [tyron's purpose](https://www.tyron.network/#the-purpose-of-tyron)|
+|# Proof-of-concept 1 | [POC1 file](https://github.com/tyronNetwork/tyron/blob/master/engineering/POCs/POC1.md) | [POC1 file](https://github.com/tyronNetwork/tyron/blob/master/engineering/POCs/POC1.md) | [julioCabDu](https://github.com/julioCabDu/) |In progess|
+|# Project development |
+|# Environment |Environmental impact of tyron <br/> How to use profits to work to mitigate global warming | 
 
 ---
 
