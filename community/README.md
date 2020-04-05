@@ -18,7 +18,7 @@ To give people the ownership of their data.
 
 :recycle: To use profits to work to mitigate global warming
 
-As a nonprofit & open organization :high_brightness:
+As a **socialøkonomisk virksomhed**, a nonprofit & open organization :high_brightness:
 
 > :zap: Meritocracy :zap: no matter your background or technical expertise, **your input is valuable**, so please share your ideas, suggestions, questions, etc. 
 
