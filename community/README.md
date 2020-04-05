@@ -14,11 +14,11 @@ As a nonprofit & open organization :high_brightness:
 > :zap: Meritocracy :zap: no matter your background or technical expertise, **your input is valuable**, so please share your ideas, suggestions, questions, etc. 
 
 There are several key areas to develop, to name a few: 
-- Engineering: For technical problem solvers, [click here!](./contributors/engineering.md)
-- Communication & society: To develop tyron's social concepts, [go here!](./contributors/communication&society.md)
-- Economy & finance: to help to maximize productivity and profits, [check this out!](./contributors/economy&finance.md)
-- Design & marketing: First impressions are important, to optimize them [join here!](./contributors/design&marketing.md)
-- Partnerships & compliance: The synergy of working with the right people makes a difference - and compliance makes it more legit and transparent. [Learn more here!](./contributors/partnerships&compliance.md)
+- Engineering: For technical problem solvers, [click here!]((https://github.com/tyronNetwork/tyron/blob/master/community/contributors/engineering.md)
+- Communication & society: To develop tyron's social concepts, [go here!](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/communication&society.md)
+- Economy & finance: to help to maximize productivity and profits, [check this out!](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/economy&finance.md)
+- Design & marketing: First impressions are important, to optimize them [join here!](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/design&marketing.md)
+- Partnerships & compliance: The synergy of working with the right people makes a difference - and compliance makes it more legit and transparent. [Learn more here!](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/partnerships&compliance.md)
 
 It'd be great to have you as a tyron lead contributor. There are unlimited opportunitites, and you are encouraged to learn how to [contribute here](./howToContribute.md) :zap:
 
