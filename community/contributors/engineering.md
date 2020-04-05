@@ -1,4 +1,4 @@
-## Engineering contributors
+## Engineering contributors :high_brightness:
 ### Intro:
 Tyron's core is engineering, how to use technology to improve society and the financial systems.
 
