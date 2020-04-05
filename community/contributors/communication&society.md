@@ -5,8 +5,8 @@ These are some issues to work on - feel free to make a pull request and add more
 
 | Issue | Description | Idea | Username | Status |
 |---|---|---|---|---|
-| Communicattion strategy |
-| Socialøkonomisk virksomhed - nonprofit & open organization | What does it mean for tyron? |
+| Communication strategy |
+| Socialøkonomisk virksomhed - nonprofit & open organization | What does it mean for tyron? <br/> More info [here](https://www.startupsvar.dk/socialoekonomisk-virksomhed)|
 
 ---
 
