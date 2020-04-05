@@ -5,7 +5,6 @@ Everything image and brand-related. Also content creation.
 ---
 
 These are some issues to work on - feel free to add more, share ideas and questions.  
-To make your contribution, [edit this file on GitHub](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/design&marketing.md) :zap:
 
 > Learn how to contribute [here](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md), and keep in mind tyron's [code of conduct](https://github.com/tyronNetwork/tyron/blob/master/CODE_OF_CONDUCT.md). Thank you!
 
@@ -19,4 +18,4 @@ To make your contribution, [edit this file on GitHub](https://github.com/tyronNe
 ---
 
 > <a href="/community"> > Back to Community </a>
->> <a href="/"> > Back to homepage </a>
+>> Visit [www.tyron.network](https://tyron.network)
