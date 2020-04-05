@@ -1,10 +1,17 @@
-## Community :high_brightness:
+<img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="120" height="120" />
+
+```
+Own your data;
+Empower your world!
+```
+
+## Contribute to tyron's community :high_brightness:
 Hej!
 
 It'd be amazing to have your ideas contributing to tyron and helping achieve its [purpose](https://www.tyron.network/#the-purpose-of-tyron): 
 
 ```
-To give people the ownership of their data
+To give people the ownership of their data.
 ```
 
 :recycle: To advocate for data rights as human rights
