@@ -1,10 +1,12 @@
 ## Design & marketing contributors
-### Intro
+### Intro:
 Everything image and brand-related. Also content creation.
 
 ---
 
 These are some issues to work on - feel free to make a pull request and add more / share ideas. For guidelines on how pull requests work, [read this](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md), and keep in mind tyron's [code of conduct](https://github.com/tyronNetwork/tyron/blob/master/CODE_OF_CONDUCT.md).
+
+To make your contribution, [edit this file on GitHub](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/design&marketing.md) :zap:
 
 | Issue | Description | Idea or question | Username | Status |
 |---|---|---|---|---|
