@@ -1,4 +1,4 @@
-## Design & marketing contributors
+## Design & marketing contributors :high_brightness:
 ### Intro:
 Everything image and brand-related. Also content creation.
 
@@ -19,3 +19,5 @@ These are some issues to work on - feel free to add more, share ideas and questi
 ---
 
 > <a href="/community"> > Back to Community </a>
+
+>> [> Visit tyron's website](https://www.tyron.network/):zap:
