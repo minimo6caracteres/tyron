@@ -19,8 +19,9 @@ There are several key areas to develop, to name a few:
 - Economy & finance: to help to maximize productivity and profits, [check this out!](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/economy&finance.md)
 - Design & marketing: First impressions are important, to optimize them [join here!](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/design&marketing.md)
 - Partnerships & compliance: The synergy of working with the right people makes a difference - and compliance makes it more legit and transparent. [Learn more here!](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/partnerships&compliance.md)
+> If there's an area unmentioned, feel free to [edit this file on GitHub](https://github.com/tyronNetwork/tyron/blob/master/community/README.md), following this [contributing guideline](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md).
 
-It'd be great to have you as a tyron lead contributor. There are unlimited opportunitites, and you are encouraged to learn how to [contribute here](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md) :zap:
+It'd be great to have you as a tyron lead contributor. There are unlimited opportunitites, and **you are encouraged to contribute!** :zap:
 
 ---
 
