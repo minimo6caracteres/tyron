@@ -14,6 +14,8 @@ To make your contribution, [edit this file on GitHub](https://github.com/tyronNe
 |# This file's [Intro](#intro) | What design & marketing mean for [tyron's purpose](https://www.tyron.network/#the-purpose-of-tyron)|
 |# Website | Take the website to the next level. Currently, it's only static and hosted in GitHub.|
 |# Logo | Find the prototype [here](https://github.com/julioCabDu/tyron/tree/master/images) | Make the circle solid metallic green and the T transparent.| [julioCabDu](https://github.com/julioCabDu/) | New idea |
+|# User experience |
+
 ---
 
 > <a href="/community"> > Back to Community </a>
