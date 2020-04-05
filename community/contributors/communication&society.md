@@ -6,6 +6,7 @@ These are some issues to work on - feel free to make a pull request and add more
 | Issue | Description | Idea | Username |
 |---|---|---|---|
 | Communicattion strategy |
+| Socialøkonomisk virksomhed - nonprofit & open organization | What does it mean for tyron? |
 
 ---
 
