@@ -86,3 +86,7 @@ Profits will fund sustainable projects to mitigate global warming. Users will al
 Please [**contribute**](/community/README.md) :high_brightness:
 
 ---
+```
+Own your data;
+Empower your world!
+```
