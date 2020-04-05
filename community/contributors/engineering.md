@@ -3,6 +3,7 @@
 Tyron's core is engineering, how to use technology to improve society and the financial systems.
 
 ---
+### Issues:
 These are some issues to work on - feel free to add more, share ideas and questions.
 
 > Learn how to contribute [here](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md), and keep in mind tyron's [code of conduct](https://github.com/tyronNetwork/tyron/blob/master/CODE_OF_CONDUCT.md). Thank you!
