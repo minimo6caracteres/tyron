@@ -6,7 +6,7 @@ These are some issues to work on - feel free to make a pull request and add more
 | Issue | Description | Idea | Username | Status |
 |---|---|---|---|---|
 | Website | Take the website to the next level. Currently, it's only static and hosted in GitHub.|
-| Logo | Find the prototype [here](https://github.com/julioCabDu/tyron/tree/master/images). | Make the circle solid metallic green and the T transparent.| julioCabDu | new idea |
+| Logo | Find the prototype [here](https://github.com/julioCabDu/tyron/tree/master/images).| Make the circle solid metallic green and the T transparent.| julioCabDu | new idea |
 ---
 
 > <a href="/community"> > Back to Community </a>
