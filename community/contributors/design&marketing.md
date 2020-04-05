@@ -3,6 +3,7 @@
 Everything image and brand-related. Also content creation.
 
 ---
+### Issues:
 
 These are some issues to work on - feel free to add more, share ideas and questions.  
 
@@ -18,4 +19,3 @@ These are some issues to work on - feel free to add more, share ideas and questi
 ---
 
 > <a href="/community"> > Back to Community </a>
->> Visit [www.tyron.network](https://tyron.network)
