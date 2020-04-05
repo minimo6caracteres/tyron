@@ -1,4 +1,4 @@
-## Communication & society contributors
+## Communication & society contributors :high_brightness:
 ### Intro:
 Clear and concise communication is essential. Also simplicity, please keep it as simple as possible to reach a broader audience. Inclusivity is key for tyron's success.
 
