@@ -1,4 +1,4 @@
-## Tyron's proof-of-concept "Own your data" - POC1
+## Tyron's proof-of-concept 1: "Own your data" - POC1
 Let's explore the key features, their feasibility and the overall functionality of tyron's POC1.
 ### Product features
  - Product: E-commerce app for peer-to-peer transactions where the user owns their data. 
@@ -11,20 +11,9 @@ Let's explore the key features, their feasibility and the overall functionality 
  3. Rust & Web-Assembly
   
 More coming soon! 
-  
-  Please add your contribution: 
-| Feature number | Idea (short description) - more below                                                    | username      |
-|----------------|------------------------------------------------------------------------------------------|---------------|
-|                |                                                                                          |               | 
-|                |                                                                                          |               | 
-|                |                                                                                          |               | 
-|                |                                                                                          |               | 
-|                |                                                                                          |               | 
-|                |                                                                                          |               | 
-|                |                                                                                          |               | 
-|                |                                                                                          |               | 
-|                |                                                                                          |               | 
-|                |                                                                                          |               | 
-|                |                                                                                          |               | 
-|                |                                                                                          |               | 
-|                |                                                                                          |               | 
+
+Any ideas? Feel free to make a pull request and add them below. For guidelines on how pull requests work, [read this](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md), and keep in mind tyron's [code of conduct](https://github.com/tyronNetwork/tyron/blob/master/CODE_OF_CONDUCT.md).
+
+| Issue | Description | Idea | Username | Status |
+|---|---|---|---|---|
+| | | | | |
