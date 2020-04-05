@@ -6,7 +6,7 @@ Everything image and brand-related. Also content creation.
 ### Issues:
 These are some issues to work on - feel free to add more, share ideas and questions.
 
-> Learn how to [contribute here](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md), and keep in mind tyron's [code of conduct](https://github.com/tyronNetwork/tyron/blob/master/CODE_OF_CONDUCT.md). Thank you!
+> Please follow this [contributing guideline](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md) and keep in mind tyron's [code of conduct](https://github.com/tyronNetwork/tyron/blob/master/CODE_OF_CONDUCT.md). Thank you!
 
 | Issue | Description | Idea or question | Username | Status |
 |---|---|---|---|---|
