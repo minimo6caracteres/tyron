@@ -20,7 +20,7 @@ There are several key areas to develop, to name a few:
 - Design & marketing: First impressions are important, to optimize them [join here!](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/design&marketing.md)
 - Partnerships & compliance: The synergy of working with the right people makes a difference - and compliance makes it more legit and transparent. [Learn more here!](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/partnerships&compliance.md)
 
-It'd be great to have you as a tyron lead contributor. There are unlimited opportunitites, and you are encouraged to learn how to [contribute here](./howToContribute.md) :zap:
+It'd be great to have you as a tyron lead contributor. There are unlimited opportunitites, and you are encouraged to learn how to [contribute here](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md) :zap:
 
 ---
 
