@@ -32,6 +32,11 @@ There are several key areas to develop, to name a few:
 
 It'd be great to have you as a tyron lead contributor. There are unlimited opportunitites, and **you are encouraged to contribute!** :high_brightness:
 
+```
+Own your data;
+Empower your world!
+```
+
 ---
 
 > <a href="/"> > Back to homepage </a>
