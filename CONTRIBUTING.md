@@ -15,3 +15,5 @@ a publicly accessible server, gives the public access to the source code of the 
 
 ## How to contribute :high_brightness:
 
+> [Go to community](/community/README.md)
+
