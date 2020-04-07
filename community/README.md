@@ -5,7 +5,7 @@ Own your data;
 Empower your world!
 ```
 
-## Contribute to tyron's community :high_brightness:
+## Community :high_brightness:
 Hej!
 
 It'd be amazing to have your ideas contributing to tyron and helping achieve its [purpose](https://www.tyron.network/#the-purpose-of-tyron): 
