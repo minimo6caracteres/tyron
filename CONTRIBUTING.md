@@ -3,7 +3,7 @@
 Thanks for taking the time to contribute to tyron! It'd be so cool to have a growing number of contributors, and you are encouraged to become a [***tyron lead contributor***](/community/leadContributors.md) :zap:
 
 ## INDEX
-[Open source software & license](#open-source-software-&-license)
+[Open source software & license](#open-source-software-license)
 
 ## Open source software & license
 ```Open source software``` means you have the freedom to use, study, copy, modify and distribute the source code.  
