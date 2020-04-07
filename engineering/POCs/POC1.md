@@ -14,6 +14,6 @@ More coming soon!
 
 Any ideas? Feel free to make a pull request and add them below. For guidelines on how pull requests work, [read this](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md), and keep in mind tyron's [code of conduct](https://github.com/tyronNetwork/tyron/blob/master/CODE_OF_CONDUCT.md).
 
-| Issue | Description | Idea | Username | Status |
+| Issue | Description | Idea or question | Username | Status |
 |---|---|---|---|---|
 | | | | | |

@@ -22,7 +22,7 @@ But why do we need more data protection? And how is tyron specifically going to 
 
 [Tyron's engineering](/engineering/README.md) :zap:
 
-[How to contribute](/community/README.md) :high_brightness:
+[Contribute](/community/README.md) :high_brightness:
 
 ---
 
@@ -86,3 +86,7 @@ Profits will fund sustainable projects to mitigate global warming. Users will al
 Please [**contribute**](/community/README.md) :high_brightness:
 
 ---
+```
+Own your data;
+Empower your world!
+```
