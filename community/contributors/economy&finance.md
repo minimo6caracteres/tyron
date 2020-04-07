@@ -11,7 +11,7 @@ These are some issues to work on - feel free to add more, share ideas and questi
 | Issue | Description | Idea or question | Username | Status |
 |---|---|---|---|---|
 |# This file's [Intro](#intro) | What economy & finance mean for [tyron's purpose](https://www.tyron.network/#the-purpose-of-tyron)|
-|# Financial model | 
+|# Financial & business model | 
 |# Cash flow |
 |# Cryptocurrencies |
 
