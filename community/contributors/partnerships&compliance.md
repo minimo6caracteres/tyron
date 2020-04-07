@@ -15,6 +15,7 @@ These are some issues to work on - feel free to add more, share ideas and questi
 |# GDPR compliance | How tyron is going to make it easier for companies to comply with the General Data Protection Regulation |
 |# Data rights | Tyron advocates for data rights as human rights |
 |# Partnerships | With banks, financial institutions, retailers, IT organizations, etc.|
+|# Trademark & copyrights |
 
 ---
 
