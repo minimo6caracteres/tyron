@@ -21,7 +21,8 @@ Some open-source licenses permit making a modified version and letting the publi
 Follow the link, and in the upper right corner click the 'pencil button' ("Edit the file in your fork of this project").
     > GitHub will tell you that: You’re editing a file in a project you don’t have write access to. Submitting a change to this file will write it to a new branch in your fork '(yourUsername)/tyron', so you can send a pull request to tyronNetwork/tyron.  
     > Forking means you're creating your own copy of tyron's repository! :zap:
-    > > :mag: repositories are like books with folders and files; it's how a project is organized.  
+    > > :mag: repositories are like books with folders and files; it's how a project is organized.   
+    
     > At the bottom of the edit page, **Commit changes** giving it a short name that describes your contribution, plus an optional extended description.
     
     **Key areas:**
