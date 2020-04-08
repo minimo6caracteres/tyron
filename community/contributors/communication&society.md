@@ -1,12 +1,12 @@
-## Communication & society contributors :high_brightness:
-### Intro:
+# Communication & society contributors :high_brightness:
+## Intro:
 Clear and concise communication is essential. Also simplicity, please keep it as simple as possible to reach a broader audience. Inclusivity is key for tyron's success.
 
 ---
-### Issues:
+## Issues:
 These are some issues to work on - feel free to add more, share ideas and questions.
 
-> Please follow this [contributing guideline](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md) and keep in mind tyron's [code of conduct](https://github.com/tyronNetwork/tyron/blob/master/CODE_OF_CONDUCT.md). Thank you!
+> Please follow this [contributing guideline](/CONTRIBUTING.md) and keep in mind tyron's [code of conduct](/CODE_OF_CONDUCT.md). Thank you!
 
 | Issue | Description | Idea or question | Username | Status |
 |---|---|---|---|---|
