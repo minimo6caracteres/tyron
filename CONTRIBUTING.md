@@ -28,4 +28,4 @@ Some open-source licenses permit making a modified version and letting the publi
   
   > More info in [Community](/community/README.md), and please keep in mind tyron's [code of conduct](/CODE_OF_CONDUCT.md) while contributing :high_brightness:
   
-3. Once you've made your contributions and file edits, go to [your tyron repository homepage](/) and 
+3. Once you've made your contributions and file edits, go to [your tyron repository's homepage](/tyron) and in the upper left, click
