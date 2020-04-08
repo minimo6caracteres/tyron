@@ -17,21 +17,22 @@ Some open-source licenses permit making a modified version and letting the publi
 ## How to contribute :high_brightness:
 1. Create a GitHub profile [here](https://github.com/join?source=header-home) - for free, you just need a username, email and password.
 
-2. From the list below, choose the areas you'd like to contribute to, and click the pencil button ("Edit the file in your fork of this project") in the upper right corner.
-  > GitHub will tell you that: You’re editing a file in a project you don’t have write access to. Submitting a change to this file will write it to a new branch in your fork '(yourUsername)/tyron', so you can send a pull request to tyronNetwork/tyron.  
-  > Forking means you're creating your own copy of tyron's repository! :zap:
-  > > :mag: repositories are like books with folders and files; it's how a project is organized.
+2. From the list below, choose the areas you'd like to contribute.  
+Follow the link, and in the upper right corner click the 'pencil button' ("Edit the file in your fork of this project").
+    > GitHub will tell you that: You’re editing a file in a project you don’t have write access to. Submitting a change to this file will write it to a new branch in your fork '(yourUsername)/tyron', so you can send a pull request to tyronNetwork/tyron.  
+    > Forking means you're creating your own copy of tyron's repository! :zap:
+    > > :mag: repositories are like books with folders and files; it's how a project is organized.
   
-  > At the bottom of the edit page, **Commit changes** giving it a short name that describes your contribution, plus an optional extended description.
-
-  **Key areas:**
-  - [Engineering contributors](/community/contributors/engineering.md)
-  - [Communication & society contributors](/community/contributors/communication&society.md)
-  - [Economy & finance contributors](/community/contributors/economy&finance.md)
-  - [Design & marketing contributors](/community/contributors/design&marketing.md)
-  - [Partnerships & compliance contributors](/community/contributors/partnerships&compliance.md)
+    > At the bottom of the edit page, **Commit changes** giving it a short name that describes your contribution, plus an optional extended description.
+    
+    **Key areas:**
+    - [Engineering contributors](/community/contributors/engineering.md)
+    - [Communication & society contributors](/community/contributors/communication&society.md)
+    - [Economy & finance contributors](/community/contributors/economy&finance.md)
+    - [Design & marketing contributors](/community/contributors/design&marketing.md)
+    - [Partnerships & compliance contributors](/community/contributors/partnerships&compliance.md)
   
-  > More info in [Community](/community/README.md), and please keep in mind tyron's [code of conduct](/CODE_OF_CONDUCT.md) while contributing :high_brightness:
+    > More info in [Community](/community/README.md), and please keep in mind tyron's [code of conduct](/CODE_OF_CONDUCT.md) while contributing :high_brightness:
   
 ### Pull requests
 3. Make your contributions and go to your tyron repository's homepage - in the upper left, click tyron in 'yourUsername/tyron'.  
