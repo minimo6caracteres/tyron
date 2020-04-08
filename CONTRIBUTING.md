@@ -26,4 +26,6 @@ Some open-source licenses permit making a modified version and letting the publi
   - [Design & marketing contributors](/community/contributors/design&marketing.md)
   - [Partnerships & compliance contributors](/community/contributors/partnerships&compliance.md)
   
-  More info in [Community](/community/README.md), and please keep in mind tyron's [code of conduct](/CODE_OF_CONDUCT.md) while contributing :high_brightness:
+  > More info in [Community](/community/README.md), and please keep in mind tyron's [code of conduct](/CODE_OF_CONDUCT.md) while contributing :high_brightness:
+  
+3. Once you've made your contributions and file edits, go to [your tyron repository homepage](/) and 
