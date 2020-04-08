@@ -1,6 +1,6 @@
 # Contributing guideline :high_brightness: 
 
-Thanks for taking the time to contribute to tyron! It'd be so cool to have a growing number of contributors, and you are encouraged to become a [***tyron lead contributor***](/community/leadContributors.md) :zap:
+Thanks for taking the time to contribute to tyron! It'd be so cool to have a growing number of contributors, and you are encouraged to become a [**tyron lead contributor**](/community/leadContributors.md) :zap:
 
 ### INDEX
 [Open source software & license](#open-source-software--license)
