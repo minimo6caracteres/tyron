@@ -11,8 +11,8 @@ These are some issues to work on - feel free to add more, share ideas and questi
 | Issue | Description | Idea or question | Username | Status |
 |---|---|---|---|---|
 |# This file's [Intro](#intro) | What design & marketing mean for [tyron's purpose](https://www.tyron.network/#the-purpose-of-tyron)|
-|# [Website](https://www.tyron.network/) | Take the website to the next level. Currently, it's only static and hosted in GitHub.|
-|# Logo | Find the prototype [here](https://github.com/julioCabDu/tyron/tree/master/images) | Make the circle solid metallic green and the T transparent.| [julioCabDu](https://github.com/julioCabDu/) | New idea |
+|# [Website](https://www.tyron.network/) | Take the website to the next level. Currently, it's only static and hosted in GitHub. | Next move could be using [Docusaurus](https://docusaurus.io/)|
+|# Logo | Find the prototype [here](https://github.com/julioCabDu/tyron/tree/master/images) | Make the circle solid metallic green and the T transparent.| | New idea |
 |# User experience |
 |# Social media |
 
