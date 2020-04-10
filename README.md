@@ -1,8 +1,7 @@
 <img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="120" height="120" />
 
 ```
-Own your data;
-Empower your world!
+Own your data, empower your world!
 ```
 
 Are you worried about how companies use your data? Do you believe that digitalization can improve our democracy and financial systems?
