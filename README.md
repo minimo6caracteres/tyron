@@ -86,6 +86,5 @@ Please [**contribute**](/community/README.md) :high_brightness:
 
 ---
 ```
-Own your data;
-Empower your world!
+Own your data, empower your world!
 ```
