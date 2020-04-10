@@ -13,7 +13,7 @@ These are some issues to work on - feel free to add more, share ideas and questi
 |# This file's [Intro](#intro) | What economy & finance mean for [tyron's purpose](https://www.tyron.network/#the-purpose-of-tyron)|
 |# Financial & business model | 
 |# Cash flow |
-|# Cryptocurrencies | Stablecoins and [utility tokens](http://www.ecri.eu/system/tdf/thomas_duenser_1.pdf?file=1&type=node&id=155&force=0) |
+|# Cryptocurrencies | Stablecoins like [libra](https://github.com/libra/libra) and [utility tokens](http://www.ecri.eu/system/tdf/thomas_duenser_1.pdf?file=1&type=node&id=155&force=0) |
 
 ---
 
