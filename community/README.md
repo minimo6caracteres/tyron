@@ -1,8 +1,7 @@
 <img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="120" height="120" />
 
 ```
-Own your data;
-Empower your world!
+Own your data, empower your world!
 ```
 
 # Community :high_brightness:
@@ -33,8 +32,7 @@ There are several key areas to develop, to name a few:
 It'd be great to have you as a tyron lead contributor. There are unlimited opportunitites, and **you are encouraged to contribute!** :high_brightness:
 
 ```
-Own your data;
-Empower your world!
+Own your data, empower your world!
 ```
 
 ---
