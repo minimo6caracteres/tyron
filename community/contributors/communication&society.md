@@ -14,6 +14,7 @@ These are some issues to work on - feel free to add more, share ideas and questi
 |# Communication strategy |
 |# Socialøkonomisk virksomhed - nonprofit & open organization | What does it mean for tyron? <br/> More info [here](https://www.startupsvar.dk/socialoekonomisk-virksomhed) |
 |# Guidelines | Brainstorming/edits on all files and guidelines |
+|# tyron's LinkedIn |
 
 ---
 
