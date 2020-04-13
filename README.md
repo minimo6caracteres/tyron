@@ -63,7 +63,7 @@ Ownership of your data means exclusive rights and control over your data.
 The end-user pays for the service through transaction fees.  
 Transaction fees will fund projects to mitigate global warming. Users will vote the winner for each term.
 
-[Staking capital]((https://github.com/tyronNetwork/tyron/blob/master/community/contributors/economy&finance.md) to cover operating costs. 
+[Staking capital](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/economy&finance.md) to cover operating costs. 
 
 ---
 
