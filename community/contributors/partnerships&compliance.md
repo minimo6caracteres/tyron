@@ -13,7 +13,7 @@ Please follow this [contributing guideline](/CONTRIBUTING.md) and keep in mind t
 | Issue | Description | Idea or question | Username | Status | File |
 |---|---|---|---|---|---|
 |# This file's [Intro](#intro) | What partnerships & compliance mean for [tyron's purpose](https://www.tyron.network/#the-purpose-of-tyron). |
-|# Legal incorporation | As a [socialøkonomisk virksomhed](https://www.startupsvar.dk/socialoekonomisk-virksomhed). | In Denmark as **Tyron Danmark**. | [julioCabdu](https://github.com/julioCabDu/) | In progress | [Incorporation](/partnerships&compliance/files/incorporation.md) |
+|# Legal incorporation | As a [socialøkonomisk virksomhed](https://www.startupsvar.dk/socialoekonomisk-virksomhed). | In Denmark as **Tyron Global Danmark**. | [julioCabdu](https://github.com/julioCabDu/) | In progress | [Incorporation](/partnerships&compliance/files/incorporation.md) |
 |# GDPR compliance | How tyron is going to make it easier for companies to comply with the General Data Protection Regulation. |
 |# Data rights | Tyron advocates for data rights as human rights. |
 |# Partnerships | With banks, financial institutions, retailers, IT organizations, etc.|
