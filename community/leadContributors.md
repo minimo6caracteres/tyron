@@ -1,7 +1,3 @@
-```
-Own your data, empower your world!
-```
-
 # :zap: tyron lead contributors
 Lead contributors will receive payment for their time contributing to tyron. 
 
