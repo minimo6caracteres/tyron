@@ -24,10 +24,10 @@ Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty
 
 How you store your data is decisive to claim ownership. Your tyron.identity gives you the secret keys to make such claims and the software that manages the storage of your data is your tyron.agent. Tyron agents can be stored in your phone and shall comply with ```Hyperledger``` blockchain technologies.
 
-:zap: To contribute with tyron's proof-of-concept 1 [check this out!](https://github.com/tyronNetwork/tyron/blob/master/engineering/POCs/POC1.md)
+:zap: To contribute with tyron's proof-of-concept 1 [check this out!](https://github.com/tyronNetwork/tyron/blob/master/engineering/files/POCs/POC1.md)
 
 ## Proof-of-Concept 2: _Sell your data_
-What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key, and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share, and make some money in return.
+What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key, and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share it and make some money in return.
 
 _Stay tuned._
 
