@@ -1,12 +1,10 @@
-<img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="120" height="120" />
-
 ```
 Own your data, empower your world!
 ```
 
 ---
 
-# Tyron's engineering :zap:
+# Engineering :zap:
 ### INDEX
 
 [Proof-of-concept 1: Own your data](#proof-of-concept-1-own-your-data)
@@ -72,6 +70,12 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 ---
 
 - [WebAssembly (Wasm)](https://webassembly.org): It is a new type of code, a portable target for compilation of high-level languages like Rust, that can be run with near-native performance in modern web browsers alongside JavaScript. Wasm is being developed as a web standard via the W3C WebAssembly Working Group.
+
+---
+
+```
+Own your data, empower your world!
+```
 
 ---
 
