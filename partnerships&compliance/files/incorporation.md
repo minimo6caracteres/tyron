@@ -1,5 +1,5 @@
-- Issue: Legal incorporation in Denmark as **Tyron Global Stiftelse**. 
-- Description of the idea: Tyron as a [registreret socialøkonomisk virksomhed](#registrering-af-socialøkonomisk-virksomhed), a nonprofit and open organization.
+- Issue: Legal incorporation in Denmark as **Tyron RSV Stiftelse**. 
+- Description of the idea: Tyron as a [registreret socialøkonomisk virksomhed (RSV)](#registrering-af-socialøkonomisk-virksomhed), a nonprofit and open organization.
 - Status: In progress. 
 
 ## Type of organization
@@ -45,7 +45,7 @@ Vær opmærksom på, at nedenstående oplysninger offentliggøres i CVR på Virk
 
 Alle nedenstående oplysninger kan ændres på Virk Indberet under 'Ændre virksomhed' 
 
-- Foreningens navn: Tyron Global Stiftelse
+- Foreningens navn: **Tyron RSV Stiftelse**
 > Navnet skal fremgå af vedtægterne  
 Foreningen bestemmer selv, hvad den skal hedde. Navnet skal fremgå af vedtægterne og må ikke kunne forveksles med en offentlig myndighed. Betegnelser som fx ApS og A/S, må ikke fremgå af navnet.  
 Foreningen har ikke eneret til virksomhedsnavnet. Det kan undersøges om der findes andre enheder med samme navn ved at søge i [Det Centrale Virksomhedsregister (CVR) på Virk](https://datacvr.virk.dk/data/)   
@@ -68,7 +68,7 @@ Hvordan skrives adressen?
 Adresse er den adresse, hvorfra virksomheden drives.
 
 ### Reklamebeskyttelse
-[ ] Der ønskes reklamebeskyttelse i CVR
+- [ ] Der ønskes reklamebeskyttelse i CVR
 > Reklamebeskyttelse af foreningen indebærer, at virksomheder ikke må kontakte foreningen i form af reklamehenvendelser og opsøgende salg (eksempelvis annoncesalg).  
 Selvom I vælger at reklamebeskytte foreningen, vil foreningens oplysninger fortsat fremgå af Det Centrale Virksomhedsregister (CVR) på Virk, og oplysningerne må fortsat videregives til private.
 
