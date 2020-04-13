@@ -8,10 +8,7 @@ Own your data, empower your world!
 
 Are you worried about how companies use your data? Do you believe that digitalization can improve our democracy and financial systems?
 
-Then, tyron is the solution for you. Tyron aims to counteract some of the modern issues of who owns your data and how they use it. So far, we users don't have enough control of how much and to which extent companies process our private information. That's about to change.
-
-:zap: tyron will grant the power of data ownership to you, the end-user, empowering you to have control over your data.
-
+Tyron aims to counteract some of the modern issues of who owns your data and how they use it. So far, we users don't have enough control of how much and to which extent companies process our private information.  
 But why do we need more data protection? And how is tyron specifically going to solve that? 
 
 ### INDEX
@@ -20,10 +17,6 @@ But why do we need more data protection? And how is tyron specifically going to 
 [What is tyron?](#what-is-tyron)
 
 [The purpose of tyron](#the-purpose-of-tyron)
-
-[Engineering](/engineering/README.md) :zap:
-
-[Community](/community/README.md) :high_brightness:
 
 ---
 
@@ -37,19 +30,13 @@ The problem is much larger than e-commerce: private data has been used to manipu
 ---
 
 ## What is tyron?
-Tyron is an e-commerce service for you, the end-user. An app where you could buy - and sell - products and services, as well as data, the data that you own. Tyron has 3 pillars: identity, network and communication. 
+Tyron is an e-commerce app for the end-user. Where you could buy - and sell - products and services, as well as your data. 
 
 :zap: **tyron.identity**: Every time you want to buy from an online shop you have to use an account managed by them and they  can store your data for a long time. What if instead of many usernames and passwords, you could use your self-sovereign identity (SSI)? A digital identity anchored in a system that allows you to manage your privacy by creating different decentralized identifiers (DIDs). For each company you communicate with, you could create a unique DID and decide what private information they have access to.
  
-:zap: **tyron.network**: An e-commerce network of blockchains for peer-to-peer transactions where you own your identity and private information. Using tyron, all the data you create is encrypted with your secret keys.
+:zap: **tyron.network**: An e-commerce network of blockchains for peer-to-peer transactions where you own your identity and private information. With tyron, all your data would be encrypted with your secret keys.
 
-:zap: **tyron.communication**: coming soon!
-
-> :mag: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
-
-```
-Own your data, empower your world!
-```
+> tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
 ## The purpose of tyron
 ```
@@ -64,9 +51,8 @@ Ownership of your data means exclusive rights and control over your data.
 - The right to control your data deciding how and where it is stored and managed.
 
 ### Vision
-```tyron as open source software```
-
-[Registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md): Incorporated in Denmark, **Tyron RSV Stiftelse** will manage the tyron projects as a nonprofit & open organization, developing innovative efforts with significant social and economic value. 
+- Open source software
+- [Registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md): Incorporated in Denmark, **Tyron RSV Stiftelse** to manage the tyron projects as a nonprofit organization. 
 
 ### Values
 :recycle: To advocate for data rights as human rights
@@ -75,19 +61,11 @@ Ownership of your data means exclusive rights and control over your data.
 
 ### Profits
 The end-user pays for the service through transaction fees.  
-Transaction fees will be collected by tyron to fund projects aligned with its two main values :recycle:, especially projects that work to mitigate global warming. Tyron will select these projects, and the users will vote the winner for each term.
+Transaction fees will fund projects to mitigate global warming. Users will vote the winner for each term.
 
-*Staking capital* will cover operating costs. More info [here](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/economy&finance.md)! 
-
----
-
-:zap: Learn about [**tyron's engineering!**](/engineering/README.md)
+[Staking capital]((https://github.com/tyronNetwork/tyron/blob/master/community/contributors/economy&finance.md) will cover operating costs. 
 
 ---
 
-Please [**contribute**](/community/README.md) :high_brightness:
-
----
-```
-Own your data, empower your world!
-```
+:zap: [Engineering](/engineering/README.md)
+:high_brightness: [Community](/community/README.md)
