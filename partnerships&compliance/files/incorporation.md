@@ -1,6 +1,5 @@
 - Issue: Legal incorporation in Denmark as **Tyron Global Stiftelse**. 
 - Description of the idea: Tyron as a [registreret socialøkonomisk virksomhed](#registrering-af-socialøkonomisk-virksomhed), a nonprofit and open organization.
-- Username: [julioCabDu](https://github.com/julioCabDu)
 - Status: In progress. 
 
 ## Type of organization
