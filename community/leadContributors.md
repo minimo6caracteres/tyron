@@ -1,3 +1,9 @@
+```
+Own your data, empower your world!
+```
+
+---
+
 # :zap: tyron lead contributors
 Lead contributors will receive payment for their time contributing to tyron. 
 
@@ -26,6 +32,12 @@ So basically, everyone working per wage for the organization will be a lead cont
 
 ## How do you become a lead contributor?
 Just start making contributions to tyron following the [contributing guideline](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md) and get in contact!
+
+---
+
+```
+Own your data, empower your world!
+```
 
 ---
 
