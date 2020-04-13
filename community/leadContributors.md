@@ -12,10 +12,10 @@ Anyone that contributes to tyron can become a lead contributor - no matter your 
 That's meritocracy for tyron, the power of your ideas! You're also welcome to help to rethink and not to overthink - it has to be simple enough for everyone to feel encouraged to contribute.
 
 Start sharing your ideas keeping the following aspects in mind:
-- Product: Open-source e-commerce app for peer-to-peer transactions where the user owns their data.  
-- Purpose: To give people the ownership of their data.
-- Vision: ```tyron as open source software``` and tyron as a [social enterprise](https://www.investopedia.com/terms/s/social-enterprise.asp) - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships&compliance/files/incorporation.md) - a nonprofit & open organization to manage the projects.
-- Values:  
+- **Product**: Open-source e-commerce app for peer-to-peer transactions where the user owns their data.  
+- **Purpose**: To give people the ownership of their data.
+- **Vision**: ```tyron as open source software``` and tyron as a [social enterprise](https://www.investopedia.com/terms/s/social-enterprise.asp) - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships&compliance/files/incorporation.md) - a nonprofit & open organization to manage the projects.
+- **Values**:  
 :recycle: To advocate for data rights as human rights  
 :recycle: To use profits to work to mitigate global warming!
 
