@@ -1,8 +1,8 @@
-<img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="120" height="120" />
-
 ```
 Own your data, empower your world!
 ```
+
+---
 
 # Community :high_brightness:
 Hej!
@@ -30,6 +30,8 @@ There are several key areas to develop, to name a few:
 > If there's an area unmentioned, feel free to [edit this file on GitHub](https://github.com/tyronNetwork/tyron/blob/master/community/README.md) following this [contributing guideline](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md).
 
 It'd be great to have you as a [tyron lead contributor](./leadContributors.md). There are unlimited opportunitites, and **you are encouraged to contribute!** :high_brightness:
+
+---
 
 ```
 Own your data, empower your world!
