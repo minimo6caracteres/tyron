@@ -21,7 +21,7 @@ Start sharing your ideas keeping the following aspects in mind:
 
 ## What is a tyron lead contributor
 Open organization means not only open-source software but also transparent management and online collaboration.  
-Modern management is not about traditional hierarchies so tyron.global won't have chief officers but lead contributors selected by meritocracy.
+Modern management is not about traditional hierarchies so tyron won't have chief officers but lead contributors selected by meritocracy.
 
 So basically, everyone working per wage for the organization will be a lead contributor. In general terms, there will be the following departments:
 - [Engineering](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/engineering.md)
