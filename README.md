@@ -21,7 +21,7 @@ But why do we need more data protection? And how is tyron specifically going to 
 
 [Tyron's engineering](/engineering/README.md) :zap:
 
-[Contribute](/community/README.md) :high_brightness:
+[Contributors](/community/README.md) :high_brightness:
 
 ---
 
@@ -46,8 +46,7 @@ Tyron is an e-commerce service for you, the end-user. An app where you could buy
 > :mag: tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
 ```
-Own your data;
-Empower your world!
+Own your data, empower your world!
 ```
 
 ## The purpose of tyron
@@ -74,7 +73,9 @@ Ownership of your data means exclusive rights and control over your data.
 
 ### Profits
 The end-user pays for the service through transaction fees.  
-Profits will fund sustainable projects to mitigate global warming. Users will also vote on these projects.
+Transaction fees will be collected by tyron to fund projects aligned with its two main values :recycle:, especially projects that work to mitigate global warming. Tyron will select these projects, and the users will vote the winner for each term.
+
+*Staking capital* will cover operating costs. More info [here](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/economy&finance.md)! 
 
 ---
 
