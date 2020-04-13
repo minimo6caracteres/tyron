@@ -6,7 +6,7 @@
 ## Type of organization
 Særlige foreninger: Stiftelse
 
-## From https://indberet.virk.dk/myndigheder/stat/ERST/Start_virksomhed 
+## From [virk](https://indberet.virk.dk/myndigheder/stat/ERST/Start_virksomhed)
 ### Start
 Registrering af stiftelse
 
@@ -52,7 +52,7 @@ Foreningen bestemmer selv, hvad den skal hedde. Navnet skal fremgå af vedtægte
 Foreningen har ikke eneret til virksomhedsnavnet. Det kan undersøges om der findes andre enheder med samme navn ved at søge i [Det Centrale Virksomhedsregister (CVR) på Virk](https://datacvr.virk.dk/data/)   
 Ønsker foreningen eneret til navnet, skal navnet registreres som et varemærke hos Patent- og Varemærkestyrelsen.
 
-- C/o navn: Julio Cesar Cabrapan Duarte
+- C/o navn:
 > Benyttes hvis foreningens navn ikke står på postkassen  
 C/o navn er det navn der står på postkassen fx en persons navn eller navnet på en virksomhed.
 
@@ -74,7 +74,7 @@ Adresse er den adresse, hvorfra virksomheden drives.
 Selvom I vælger at reklamebeskytte foreningen, vil foreningens oplysninger fortsat fremgå af Det Centrale Virksomhedsregister (CVR) på Virk, og oplysningerne må fortsat videregives til private.
 
 ### Registrering af socialøkonomisk virksomhed
-[ ] Virksomheden skal registreres som en registeret socialøkonomisk virksomhed (RSV)
+- [ ] Virksomheden skal registreres som en registeret socialøkonomisk virksomhed (RSV)
 
 > En socialøkonomisk virksomhed har ikke pligt til at lade sig registrere i henhold til lov om registrerede socialøkonomiske virksomheder. En socialøkonomisk virksomhed kan derfor benytte betegnelsen socialøkonomisk virksomhed uden at være registreret i henhold til loven, hvilket vil sige, at virksomheden godt kan bruge betegnelsen socialøkonomisk virksomhed i navn og markedsføring. Hvis du registrerer virksomheden som en registreret socialøkonomisk virksomhed, er du berettiget til at bruge denne betegnelse (registreret socialøkonomisk virksomhed) i virksomhedens navn og markedsføring, og det vil fremgå af CVR på virk, at virksomheden er en registreret socialøkonomisk virksomhed. En registreret socialøkonomisk virksomhed skal indsende et årsregnskab efter regnskabsklasse B i Årsregnskabsloven. For at blive registreret som registreret socialøkonomisk virksomhed skal du indsende en række yderligere dokumenter – se nærmere under dokumentation for registreret socialøkonomisk virksomhed.  
 Kriterier som definerer en virksomhed som socialøkonomisk:
