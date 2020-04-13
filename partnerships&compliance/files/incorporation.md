@@ -1,9 +1,9 @@
-- Issue: Legal incorporation in Denmark as **Tyron Global Danmark**. 
-- Description of the idea: Tyron as a registreret socialøkonomisk virksomhed, a nonprofit and open organization.
+- Issue: Legal incorporation in Denmark as **Tyron Global Stiftelse**. 
+- Description of the idea: Tyron as a [registreret socialøkonomisk virksomhed](#registrering-af-socialøkonomisk-virksomhed), a nonprofit and open organization.
 - Username: [julioCabDu](https://github.com/julioCabDu)
 - Status: In progress. 
 
-## Specific type
+## Type of organization
 Særlige foreninger: Stiftelse
 
 ## From https://indberet.virk.dk/myndigheder/stat/ERST/Start_virksomhed 
@@ -25,28 +25,28 @@ Hvis Erhvervsstyrelsen har spørgsmål til din registrering, vil du indenfor få
 ### Fondsbetingelser
 For at afdække, om du benytter den rigtige selvbetjeningsløsning, skal du vælge det udsagn der passer til din registrering:
 
-[NO] Foreningen skal udøve erhvervsdrift og er et andelsselskab, selskab eller forening med begrænset ansvar, som er omfattet af selskabsloven, lov om visse erhvervsdrivende virksomheder eller lov om erhvervsdrivende fonde.
+- [ ] Foreningen skal udøve erhvervsdrift og er et andelsselskab, selskab eller forening med begrænset ansvar, som er omfattet af selskabsloven, lov om visse erhvervsdrivende virksomheder eller lov om erhvervsdrivende fonde.
 En forening anses som erhvervsdrivende, hvis den har til formål at fremme deltagernes økonomiske interesser gennem erhvervsdrift. En forening anses for at udøve erhvervsdrift, hvis den
 - sælger varer eller immaterielle rettigheder (fx patenter, varemærkerettigheder, ophavsrettigheder m.v.), yder tjenesteydelser eller lignende, som foreningen normalt modtager betaling for
 - driver virksomhed med salg eller udlejning af fast ejendom
 - indgår i et koncernforhold med en anden virksomhed, der udøver erhvervsdrift
 - udøver en bestemmende indflydelse over en anden virksomhed i henhold til vedtægt eller aftale og har en betydelig andel i dens driftsresultat
 
-[YES] Foreningen er en ikke-erhvervsdrivende forening
+- [ ] Foreningen er en ikke-erhvervsdrivende forening
 En forening er ikke-erhvervsdrivende, hvis den har et non-profit eller almennyttigt formål, eller hvis den ikke fremmer medlemmernes økonomiske interesser gennem erhvervsdrift.
 
 ### Selskabsskat
 
 Skal foreningen registreres for selskabsskat, skal årsagen angives i  boksen, som fremkommer efter checkboksen
 
-[NO] Foreningen skal registreres for selskabsskat
+- [ ] Foreningen skal registreres for selskabsskat
 
 ### Stamdata
 Vær opmærksom på, at nedenstående oplysninger offentliggøres i CVR på Virk (med mindre andet er anført) og kan ses af alle - også efter virksomhedens ophør.
 
 Alle nedenstående oplysninger kan ændres på Virk Indberet under 'Ændre virksomhed' 
 
-- Foreningens navn: Tyron Global Danmark
+- Foreningens navn: Tyron Global Stiftelse
 > Navnet skal fremgå af vedtægterne  
 Foreningen bestemmer selv, hvad den skal hedde. Navnet skal fremgå af vedtægterne og må ikke kunne forveksles med en offentlig myndighed. Betegnelser som fx ApS og A/S, må ikke fremgå af navnet.  
 Foreningen har ikke eneret til virksomhedsnavnet. Det kan undersøges om der findes andre enheder med samme navn ved at søge i [Det Centrale Virksomhedsregister (CVR) på Virk](https://datacvr.virk.dk/data/)   
