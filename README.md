@@ -23,7 +23,7 @@ But why do we need more data protection? And how is tyron specifically going to 
 
 [Tyron's engineering](/engineering/README.md) :zap:
 
-[Contributors](/community/README.md) :high_brightness:
+[Community](/community/README.md) :high_brightness:
 
 ---
 
