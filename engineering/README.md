@@ -1,7 +1,3 @@
-```
-Own your data, empower your world!
-```
-
 # Engineering :zap:
 ### INDEX
 
