@@ -1,4 +1,4 @@
-# Tyron lead contributors :zap:
+# :zap: tyron lead contributors
 Lead contributors will receive payment for their time contributing to tyron. 
 
 Anyone that contributes to tyron can become a lead contributor - no matter your background or technical expertise but your actions and contributions. 
@@ -26,3 +26,7 @@ So basically, everyone working per wage for the organization will be a lead cont
 
 ## How do you become a lead contributor?
 Just start making contributions to tyron following the [contributing guideline](/CONTRIBUTING.md) and get in contact!
+
+---
+
+> <a href="/community"> > Back to Community </a>
