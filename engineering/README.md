@@ -1,14 +1,12 @@
-> <a href="/"> > Back to homepage </a>
+<img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="120" height="120" />
+
+```
+Own your data, empower your world!
+```
 
 ---
 
 # Tyron's engineering :zap:
-
-```
-Own your data;
-Empower your world!
-```
-
 ### INDEX
 
 [Proof-of-concept 1: Own your data](#proof-of-concept-1-own-your-data)
