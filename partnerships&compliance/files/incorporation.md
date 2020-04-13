@@ -1,0 +1,3 @@
+- Issue: Legal incorporation in Denmark as **Tyron Global Danmark**. 
+- Description of the idea: Tyron as a socialøkonomisk virksomhed, a nonprofit and open organization.
+- Username: [julioCabDu](https://github.com/julioCabDu)
