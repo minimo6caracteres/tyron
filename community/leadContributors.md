@@ -9,7 +9,7 @@ Start sharing your ideas keeping the following aspects in mind:
 - Product: Open-source e-commerce app for peer-to-peer transactions where the user owns their data.  
 - Purpose: To give people the ownership of their data.
 - Vision: ```tyron as open source software``` and tyron as a [social enterprise](https://www.investopedia.com/terms/s/social-enterprise.asp) - [registeret socialøkonomisk virksomhed (RSV)](/partnerships&compliance/files/incorporation.md) - a nonprofit & open organization to manage the projects.
-- Values:
+- Values:  
 :recycle: To advocate for data rights as human rights  
 :recycle: To use profits to work to mitigate global warming!
 
@@ -23,3 +23,6 @@ So basically, everyone working per wage for the organization will be a lead cont
 - [Economy & finance](/community/contributors/economy&finance.md)
 - [Design & marketing](/community/contributors/design&marketing.md)
 - [Partnerships & compliance](/community/contributors/partnerships&compliance.md)
+
+## How do you become a lead contributor?
+Just start making contributions to tyron following the [contributing guideline](/CONTRIBUTING.md) and get in contact!
