@@ -69,9 +69,9 @@ Ownership of your data means exclusive rights and control over your data.
 [Registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md): Incorporated in Denmark, **Tyron Global Stiftelse** will manage the tyron projects as a nonprofit & open organization, developing innovative efforts with significant social and economic value. 
 
 ### Values
-:recycle: To advocate for data rights as human rights.
+:recycle: To advocate for data rights as human rights
 
-:recycle: To use profits to work to mitigate global warming.
+:recycle: To use profits to work to mitigate global warming!
 
 ### Profits
 The end-user pays for the service through transaction fees.  
