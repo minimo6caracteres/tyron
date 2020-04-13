@@ -32,7 +32,7 @@ En forening anses som erhvervsdrivende, hvis den har til formål at fremme delta
 - indgår i et koncernforhold med en anden virksomhed, der udøver erhvervsdrift
 - udøver en bestemmende indflydelse over en anden virksomhed i henhold til vedtægt eller aftale og har en betydelig andel i dens driftsresultat
 
-- [ ] Foreningen er en ikke-erhvervsdrivende forening
+- [X] Foreningen er en ikke-erhvervsdrivende forening
 En forening er ikke-erhvervsdrivende, hvis den har et non-profit eller almennyttigt formål, eller hvis den ikke fremmer medlemmernes økonomiske interesser gennem erhvervsdrift.
 
 ### Selskabsskat
