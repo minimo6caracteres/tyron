@@ -13,6 +13,4 @@ There are several key areas to develop, to name a few:
 
 It'd be great to have you as a [tyron lead contributor](./leadContributors.md). There are unlimited opportunitites, and **you are encouraged to contribute!**
 
----
-
 > <a href="/"> > Back to homepage </a>
