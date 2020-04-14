@@ -1,6 +1,6 @@
 <div style="text-align:center"><img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="300" height="300"/>
 
-own your data
+own your data  
 empower your world
 </div>
 
