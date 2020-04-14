@@ -1,4 +1,4 @@
-# Lead contributors :zap:
+# LEAD CONTRIBUTORS
 Those committed to the project and want tyron to achieve its purpose for the public good.  
 Lead contributors could receive payment for their time contributing to tyron.
 
