@@ -1,4 +1,4 @@
-<img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="120" height="120" />
+<div style="text-align:center"><img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="200" height="200" /></div>
 
 ```
 Own your data, empower your world!
