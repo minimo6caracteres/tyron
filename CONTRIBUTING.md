@@ -1,6 +1,7 @@
-# Contributing guideline :high_brightness: 
+# Contributing guideline
 
-Thanks for taking the time to contribute to tyron! It'd be so cool to have a growing number of contributors, and you are encouraged to become a [**tyron lead contributor**](/community/leadContributors.md) :zap:
+Thanks for taking the time to contribute to tyron :zap:  
+It'd be so cool to have a growing number of contributors, and you are encouraged to become a [**tyron lead contributor**](/community/leadContributors.md)!
 
 ### INDEX
 [Open source software & license](#open-source-software--license)
@@ -32,7 +33,9 @@ Follow the link, and in the upper right corner click the 'pencil button' ("Edit 
     - [Design & marketing contributors](/community/contributors/design&marketing.md)
     - [Partnerships & compliance contributors](/community/contributors/partnerships&compliance.md)
     
-    > More info in [Community](/community/README.md), and please keep in mind tyron's [code of conduct](/CODE_OF_CONDUCT.md) while contributing :high_brightness:
+    > More info in [Community](/community/README.md), and please keep in mind tyron's [code of conduct](/CODE_OF_CONDUCT.md) while contributing.  
+    > [New to markdown?](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops)  
+    > [Emoji markup](https://gist.github.com/rxaviers/7360908)
     
 ### Pull requests
 3. To share your contributions, you'll have to send a pull request to tyron's repository.
@@ -41,4 +44,5 @@ Follow the link, and in the upper right corner click the 'pencil button' ("Edit 
     You'll see a **New pull request** button, then **Create pull request**, give it a title, comment and confirm.  
     Once your contribution is merged with tyron's repository, you'll see your username in tyronNetwork/tyron contributors.  
     
-    That's it, you've become a **tyron contributor**! :zap: Thank you very much!
+    That's it, you've become a **tyron contributor** :zap:  
+    Thank you very much!
