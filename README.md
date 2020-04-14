@@ -8,7 +8,7 @@
 - An open-source e-commerce app for private transactions where each user owns their data! So you could buy and sell products and services, and sell your data if you want to.
 
 > Does it worry you how private companies use your data?  
-> **Who owns your data, and how do they use it?** Users don't have enough control over how much and to which extent companies process our private information.  
+> **Who owns your data, and how do they use it?** Users don't have enough control over how much and to which extent companies process our personal information.  
 
 > But why do we need more data protection? And how tyron could solve that?
 
@@ -48,7 +48,7 @@ Ownership of your data means exclusive rights and control over your data.
 The end-user pays for the service through transaction fees.  
 Transaction fees will fund projects to mitigate global warming. Users will vote the winner for each term.
 
-[Staking capital](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/economy&finance.md) to cover operating costs. 
+[Staking capital](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/economy&finance.md) to cover the operating costs. 
 
 ---
 
