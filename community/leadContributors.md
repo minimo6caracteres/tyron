@@ -1,4 +1,5 @@
-# Lead contributors
+# Lead contributors :zap:
+Those committed to the project and want tyron to achieve its purpose for the public good.  
 Lead contributors could receive payment for their time contributing to tyron.
 
 Anyone that contributes to tyron could become a lead contributor - no matter your background or technical expertise but your actions and contributions. 
