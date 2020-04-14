@@ -26,7 +26,8 @@ Tyron could have its own DID method specification in compliance with [W3C's spec
 - [KILT DID](https://github.com/KILTprotocol/kilt-did-driver/blob/master/DID%20Method%20Specification.md)
 
 ### 2. Blockchain, distributed ledger technology (DLT)
-[Bitcoin](https://bitcoin.org/bitcoin.pdf) changed the world, and it's an inspiration in terms of community and decentralization. Proof-of-work, however, is not sustainable for tyron. 
+[Bitcoin](https://bitcoin.org/bitcoin.pdf) changed the world, and it's an inspiration in terms of community and decentralization. Proof-of-work, however, is not sustainable for tyron.
+
 The tyron.network could be built with blockchain technology as a decentralized system that is:
-- Permissioned 
-- Proof-of-stake
+- Permissioned: Organizations would have to go through legal compliance to become tyron nodes operators. 
+- Proof-of-stake: Network validators would have to stake assets to secure the system.
