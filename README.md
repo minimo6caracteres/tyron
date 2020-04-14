@@ -1,13 +1,13 @@
 <div style="text-align:center"><img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="300" height="300"/></div>
 <div style="text-align:center">
- <p><b>own your data</b></p>
- <p><b>empower your world</b></p>
+ <p><b>OWN YOUR DATA</b></p>
+ <p><b>EMPOWER YOUR WORLD</b></p>
 </div>
 
 ## What tyron could be:
-- An open-source e-commerce app for peer-to-peer transactions where each user owns their data! So you could buy and sell products and services, and sell your data if you want to.
+- An open-source e-commerce app for private transactions where each user owns their data! So you could buy and sell products and services, and sell your data if you want to.
 
-> Are you worried about how companies use your data?  
+> Does it worry you how private companies use your data?  
 > **Who owns your data, and how do they use it?** Users don't have enough control over how much and to which extent companies process our private information.  
 
 > But why do we need more data protection? And how tyron could solve that?
