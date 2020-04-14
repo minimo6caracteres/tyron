@@ -1,7 +1,7 @@
 <div style="text-align:center"><img src="/images/tyron.png" alt="tyron" title="tyron's logo prototype" width="300" height="300"/></div>
 <div style="text-align:center">
- <strong>own your data</strong></br>
- <strong>empower your world</strong>
+ <p><b>own your data</b></p>
+ <p><b>empower your world</b></p>
 </div>
 
 ### What tyron could be:
@@ -12,15 +12,6 @@
 
 > But why do we need more data protection? And how tyron could solve that?
 
-### INDEX
-[The problem](#the-problem)
-
-[What is tyron?](#what-is-tyron)
-
-[The purpose of tyron](#the-purpose-of-tyron)
-
----
-
 ## The problem
 When shopping online, companies gather a lot of your personal information. Many times the data they require seems unnecessary - why do I need to disclose my gender when buying a book? And why do they want my phone number if they rarely use it to contact me? There are many examples of users giving away an unnecessary amount of data, for free. But your data has an immense value! You're just not getting any money for it.
 
@@ -30,7 +21,7 @@ The problem is much larger than e-commerce: private data has been used to manipu
 
 ---
 
-## What is tyron?
+## tyron
 An e-commerce app for the end-user. Where you could buy - and sell - products and services, as well as your data. 
 
 :zap: **tyron.identity**: Every time you want to buy from an online shop you have to use an account managed by them and they  can store your data for a long time. What if instead of many usernames and passwords, you could use your self-sovereign identity (SSI)? A digital identity anchored in a system that allows you to manage your privacy by creating different decentralized identifiers (DIDs). For each company you communicate with, you could create a unique DID and decide what private information they have access to.
