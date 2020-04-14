@@ -35,16 +35,16 @@ Ownership of your data means exclusive rights and control over your data.
 
 - The right to control your data deciding how and where it is stored and managed.
 
-### Vision
+### VISION
 - Open source software
 - [Registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md): Incorporated in Denmark, **Tyron RSV Stiftelse** as a nonprofit organization. 
 
-### Values
+### VALUES
 :recycle: To advocate for data rights as human rights
 
 :recycle: To use profits to work to mitigate global warming!
 
-### Profits
+### PROFITS
 The end-user pays for the service through transaction fees.  
 Transaction fees will fund projects to mitigate global warming. Users will vote the winner for each term.
 
@@ -52,5 +52,5 @@ Transaction fees will fund projects to mitigate global warming. Users will vote 
 
 ---
 
-:zap: [Engineering](/engineering/README.md)  
-:high_brightness: [Community](/community/README.md)
+:zap: [ENGINEERING](/engineering/README.md)  
+:high_brightness: [COMMUNITY](/community/README.md)
