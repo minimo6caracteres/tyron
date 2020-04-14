@@ -4,10 +4,10 @@ Lead contributors could receive payment for their time contributing to tyron.
 
 Anyone that contributes to tyron could become a lead contributor - no matter your background or technical expertise but your actions and contributions. 
 
-Recap:
+**Recap**:
 - **Product**: Open-source e-commerce app for peer-to-peer private transactions where the user owns their data.  
 - **Purpose**: To give people the ownership of their data.
-- **Vision**: ```tyron as open source software``` and tyron as a [social enterprise](https://www.investopedia.com/terms/s/social-enterprise.asp) - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships&compliance/files/incorporation.md) - a nonprofit & open organization to manage the projects.
+- **Vision**: ```tyron as open source software``` and tyron as a [social enterprise](https://www.investopedia.com/terms/s/social-enterprise.asp) - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships&compliance/files/incorporation.md) - a nonprofit & open organization to manage the project.
 - **Values**:  
 :recycle: To advocate for data rights as human rights  
 :recycle: To use profits to work to mitigate global warming!
