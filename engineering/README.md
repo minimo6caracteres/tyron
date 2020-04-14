@@ -8,9 +8,11 @@
 [Tyron's stack](#tyrons-stack)
 
 ## Proof-of-Concept 1: _Own your data_
-Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty to their users' cryptographic identities.
-
-```Blockchain``` will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.
+Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty to their users' cryptographic identities.  
+- **tyron.identity**: Every time you want to buy from an online shop you have to use an account managed by them and they can store your data for a long time. What if instead of many usernames and passwords, you could use your self-sovereign identity (SSI)? A digital identity anchored in a system that allows you to manage your privacy by creating different decentralized identifiers (DIDs). For each company you communicate with, you could create a unique DID and decide what private information they have access to.
+ 
+```Blockchain``` will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.  
+- **tyron.network**: An e-commerce network of blockchains for peer-to-peer transactions where you own your identity and private information. With tyron, all your data would be encrypted with your secret keys.
 
 How you store your data is decisive to claim ownership. Your tyron.identity gives you the secret keys to make such claims and the software that manages the storage of your data is your tyron.agent. Tyron agents can be stored in your phone and shall comply with ```Hyperledger``` blockchain technologies.
 
