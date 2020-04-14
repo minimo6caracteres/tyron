@@ -4,8 +4,8 @@
  <p><b>empower your world</b></p>
 </div>
 
-### What tyron could be:
-- An open-source e-commerce app for peer-to-peer transactions where each user owns their data!
+## What tyron could be:
+- An open-source e-commerce app for peer-to-peer transactions where each user owns their data! So you could buy and sell products and services, and sell your data if you want to.
 
 > Are you worried about how companies use your data?  
 > **Who owns your data, and how do they use it?** Users don't have enough control over how much and to which extent companies process our private information.  
@@ -21,19 +21,12 @@ The problem is much larger than e-commerce: private data has been used to manipu
 
 ---
 
-## tyron
-An e-commerce app for the end-user. Where you could buy - and sell - products and services, as well as your data. 
-
-:zap: **tyron.identity**: Every time you want to buy from an online shop you have to use an account managed by them and they  can store your data for a long time. What if instead of many usernames and passwords, you could use your self-sovereign identity (SSI)? A digital identity anchored in a system that allows you to manage your privacy by creating different decentralized identifiers (DIDs). For each company you communicate with, you could create a unique DID and decide what private information they have access to.
- 
-:zap: **tyron.network**: An e-commerce network of blockchains for peer-to-peer transactions where you own your identity and private information. With tyron, all your data would be encrypted with your secret keys.
-
-> tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
-
 ## The purpose of tyron
 ```
 To give people the ownership of their data.
 ```
+> tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
+
 Ownership of your data means exclusive rights and control over your data.
 
 - The right to prove your identity with a digital system that is not controlled by a private company. A system that relies upon open source code and decentralized technologies like blockchain.
