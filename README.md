@@ -3,11 +3,13 @@
 ```
 Own your data, empower your world!
 ```
+### What tyron could be:
+- An open-source e-commerce app for peer-to-peer transactions where each user owns their data!
 
-Are you worried about how companies use your data? Do you believe that digitalization can improve our democracy and financial systems?
+> Are you worried about how companies use your data?  
+> **Who owns your data, and how do they use it?** Users don't have enough control over how much and to which extent companies process our private information.  
 
-Tyron aims to counteract some of the modern issues of who owns your data and how they use it. So far, we users don't have enough control of how much and to which extent companies process our private information.  
-But why do we need more data protection? And how is tyron specifically going to solve that? 
+> But why do we need more data protection? And how tyron could solve that?
 
 ### INDEX
 [The problem](#the-problem)
@@ -28,7 +30,7 @@ The problem is much larger than e-commerce: private data has been used to manipu
 ---
 
 ## What is tyron?
-Tyron is an e-commerce app for the end-user. Where you could buy - and sell - products and services, as well as your data. 
+An e-commerce app for the end-user. Where you could buy - and sell - products and services, as well as your data. 
 
 :zap: **tyron.identity**: Every time you want to buy from an online shop you have to use an account managed by them and they  can store your data for a long time. What if instead of many usernames and passwords, you could use your self-sovereign identity (SSI)? A digital identity anchored in a system that allows you to manage your privacy by creating different decentralized identifiers (DIDs). For each company you communicate with, you could create a unique DID and decide what private information they have access to.
  
