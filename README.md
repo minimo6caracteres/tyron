@@ -50,7 +50,12 @@ Transaction fees will fund projects to mitigate global warming. Users will vote 
 
 [Staking capital](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/economy&finance.md) to cover operating costs. 
 
+## [ENGINEERING](/engineering/README.md) :zap:
+## [COMMUNITY](/community/README.md) :high_brightness:
+
 ---
 
-:zap: [ENGINEERING](/engineering/README.md)  
-:high_brightness: [COMMUNITY](/community/README.md)
+<div style="text-align:center">
+ <p><b>OWN YOUR DATA</b></p>
+ <p><b>EMPOWER YOUR WORLD</b></p>
+</div>
