@@ -1,19 +1,19 @@
-# :zap: tyron lead contributors
-Lead contributors will receive payment for their time contributing to tyron. 
+# Lead contributors
+Lead contributors could receive payment for their time contributing to tyron.
 
-Anyone that contributes to tyron can become a lead contributor - no matter your background or technical expertise but your actions and contributions. 
+Anyone that contributes to tyron could become a lead contributor - no matter your background or technical expertise but your actions and contributions. 
 
 Recap:
-- **Product**: Open-source e-commerce app for peer-to-peer transactions where the user owns their data.  
+- **Product**: Open-source e-commerce app for peer-to-peer private transactions where the user owns their data.  
 - **Purpose**: To give people the ownership of their data.
 - **Vision**: ```tyron as open source software``` and tyron as a [social enterprise](https://www.investopedia.com/terms/s/social-enterprise.asp) - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships&compliance/files/incorporation.md) - a nonprofit & open organization to manage the projects.
 - **Values**:  
 :recycle: To advocate for data rights as human rights  
 :recycle: To use profits to work to mitigate global warming!
 
-## What is a tyron lead contributor
+## Open organization
 Open organization means not only open-source software but also transparent management and online collaboration.  
-Modern management is not about traditional hierarchies so tyron won't have chief officers but lead contributors selected by meritocracy.
+Modern management shouldn't be about traditional hierarchies so tyron won't have chief officers but lead contributors selected by meritocracy.
 
 So basically, everyone working per wage for the organization will be a lead contributor. In general terms, there will be the following departments:
 - [Engineering](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/engineering.md)
@@ -22,10 +22,14 @@ So basically, everyone working per wage for the organization will be a lead cont
 - [Design & marketing](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/design&marketing.md)
 - [Partnerships & compliance](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/partnerships&compliance.md)
 
-## How do you become a lead contributor?
+## How to become a lead contributor
 Just start making contributions to tyron following the [contributing guideline](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md) and get in contact!
 
-```
-Own your data, empower your world!
-```
+---
+
+<div style="text-align:center">
+ <p><b>OWN YOUR DATA</b></p>
+ <p><b>EMPOWER YOUR WORLD</b></p>
+</div>
+
 > <a href="/community"> > Back to Community </a>
