@@ -1,7 +1,7 @@
 # Community :high_brightness:
 It'd be amazing to have your ideas contributing to tyron and helping achieve its [purpose](https://www.tyron.network/#the-purpose-of-tyron): 
 
-> :zap: Meritocracy :zap: no matter your background or technical expertise, **your feedback is valuable**, so please share your ideas, suggestions, questions, etc.
+> No matter your background or technical expertise, **your feedback is valuable**, so please share your ideas, suggestions, questions, etc.
 
 There are several key areas to develop, to name a few: 
 - **Engineering**: For technical problem solvers, [click here!](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/engineering.md)
@@ -12,5 +12,12 @@ There are several key areas to develop, to name a few:
 > If there's an area unmentioned, feel free to [edit this file on GitHub](https://github.com/tyronNetwork/tyron/blob/master/community/README.md) following this [contributing guideline](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md).
 
 It'd be great to have you as a [tyron lead contributor](./leadContributors.md). There are unlimited opportunitites, and **you are encouraged to contribute!**
+
+---
+
+<div style="text-align:center">
+ <p><b>OWN YOUR DATA</b></p>
+ <p><b>EMPOWER YOUR WORLD</b></p>
+</div>
 
 > <a href="/"> > Back to homepage </a>
