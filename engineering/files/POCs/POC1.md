@@ -1,12 +1,13 @@
 # Tyron's proof-of-concept 1: "Own your data" - POC1
 Let's explore the key features, their feasibility and the overall functionality of tyron's POC1.
-## Product features
+
  - Product: Open source e-commerce app for peer-to-peer private transactions where the user owns their data. 
  - Purpose: To give people the ownership of their data.
  
- List of key features:
- [1. Self-sovereign identity (SSI)](#1-self-sovereign-identity-ssi)
- [2. Blockchain, distributed ledger technology (DLT)](#2-blockchain-distributed-ledger-technology-dlt)
+## Product features
+ List of key features:  
+ [1. Self-sovereign identity (SSI)](#1-self-sovereign-identity-ssi)  
+ [2. Blockchain, distributed ledger technology (DLT)](#2-blockchain-distributed-ledger-technology-dlt)  
  3. Rust & Web-Assembly
 
 Any ideas? Feel free to add them below and send a pull request. 
