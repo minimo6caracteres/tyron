@@ -6,7 +6,7 @@
 
 ## What tyron could be:
 - As a service: An app to manage your own data when shopping online. An e-commerce network for private transactions where you own your data, so you could buy and sell products and services, and sell your data if you want to.
-- As an organization: Registered in Denmark as a socio-economic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
+- As an organization: Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
 
 > Does it worry you how companies use your data?  
 > **Who owns your data, and how do they use it?** Users don't have enough control over how much and to which extent companies process our personal information.  
@@ -39,7 +39,8 @@ Ownership of your data means exclusive rights and control over your data:
 - The right to control your data deciding how and where it is stored and managed.
 
 ### VISION
-*A world where people have access to an online market that protects their privacy and personal information, a market with low barriers to entry for small and medium-sized enterprises (SMEs). A society where data-driven businesses' success is not at the expenses of people's rights.*
+*A world where people have access to an online market that protects their privacy and personal information, a market with low barriers to entry for small and medium-sized enterprises (SMEs).  
+A society where data-driven businesses' success is not at the expenses of people's rights.*
 
 ### VALUES
 :recycle: To advocate for data rights as human rights
