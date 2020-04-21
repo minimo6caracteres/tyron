@@ -26,9 +26,8 @@ With tyron, the digital world could look much different for you. You could own y
 ---
 
 ## The purpose of tyron
-```
-To give people the ownership of their data.
-```
+```To give people the ownership of their data!```
+
 > tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
 Ownership of your data means exclusive rights and control over your data:
