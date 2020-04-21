@@ -1,5 +1,6 @@
 # COMMUNITY
-It'd be amazing to have your ideas contributing to tyron and helping achieve its [purpose](https://www.tyron.network/#the-purpose-of-tyron): ```to give people the ownership of their data```.  
+It'd be amazing to have your ideas contributing to tyron and helping achieve its [purpose](https://www.tyron.network/#the-purpose-of-tyron):  
+```To give people the ownership of their data```.  
 
 > No matter your background or technical expertise, **your feedback is valuable**, so please share your ideas, suggestions, questions, etc.
 
