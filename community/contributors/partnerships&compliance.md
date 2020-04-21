@@ -15,10 +15,12 @@ Please follow this [contributing guideline](/CONTRIBUTING.md) and keep in mind t
 |# This file's [Intro](#intro) | What partnerships & compliance mean for [tyron's purpose](https://www.tyron.network/#the-purpose-of-tyron). |
 |# Legal incorporation | As a [registeret socialøkonomisk virksomhed (RSV)](https://www.startupsvar.dk/socialoekonomisk-virksomhed). | In Denmark as *Tyron Global Stiftelse*. | [julioCabDu](https://github.com/julioCabDu/) | In progress | [Incorporation](/partnerships&compliance/files/incorporation.md) |
 |# GDPR compliance | How tyron is going to make it easier for companies to comply with the General Data Protection Regulation. |
-|# Data rights | Tyron advocates for data rights as human rights. |
+|# Data rights | Tyron advocates for data rights as human rights.|
 |# Partnerships | With banks, financial institutions, retailers, IT organizations, etc.|
 |# Stewards | Special partners like banks and retailers that use tyron, and therefore they have to run a node and provide the staking capital. |
 |# Trademark & copyrights |
+|# Partnership | With [PriceRunner](https://www.pricerunner.dk/).|
+|# Partnership | With e-commerce associations such as [Foreningen for Dansk Internethandel (FDIH)](https://www.fdih.dk/) and [Ecommerce Europe](https://www.ecommerce-europe.eu).|
 
 ---
 
