@@ -1,5 +1,5 @@
 # COMMUNITY
-It'd be amazing to have your ideas contributing to tyron and helping achieve its [purpose](https://www.tyron.network/#the-purpose-of-tyron): 
+It'd be amazing to have your ideas contributing to tyron and helping achieve its [purpose](https://www.tyron.network/#the-purpose-of-tyron): ```to give people the ownership of their data```.  
 
 > No matter your background or technical expertise, **your feedback is valuable**, so please share your ideas, suggestions, questions, etc.
 
@@ -12,6 +12,9 @@ There are several key areas to develop, to name a few:
 > If there's an area unmentioned, feel free to [edit this file on GitHub](https://github.com/tyronNetwork/tyron/blob/master/community/README.md) following this [contributing guideline](https://github.com/tyronNetwork/tyron/blob/master/CONTRIBUTING.md).
 
 It'd be great to have you as a [tyron lead contributor](./leadContributors.md). There are unlimited opportunitites, and **you are encouraged to contribute!**
+
+If you prefer to reach out by email, contact **community@tyron.network** - thank you!
+
 
 ---
 
