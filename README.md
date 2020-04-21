@@ -5,7 +5,7 @@
 </div>
 
 ## What tyron could be:
-- As a service: An app to manage your own data when shopping online. An e-commerce network for private transactions where you own your data, so you could buy and sell products and services, and sell your data if you want to.
+- As a service: An app to privately manage your data when shopping online. An e-commerce network for private transactions where you own your data, so you could buy and sell products and services - and sell your data if you want to.
 - As an organization: Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
 
 > Does it worry you how companies use your data?  
