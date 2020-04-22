@@ -1,11 +1,11 @@
-<div style="text-align:center"><img src="/design&marketing/files/logoVersion_1/Tyron isologotipo 1080x1080 sin fondo.png" alt="tyron" title="tyron's logo version_1" width="300" height="300"/></div>
+<div style="text-align:center"><img src="/design&marketing/files/logoVersion_1/Tyron isologotipo 1080x1080 sin fondo.png" alt="tyron" title="tyron's logo version_1" width="333" height="333"/></div>
 <div style="text-align:center">
  <p><b>OWN YOUR DATA</b></p>
  <p><b>EMPOWER YOUR WORLD</b></p>
 </div>
 
 ## What tyron could be:
-- As a service: An app to privately manage your data when shopping online. An e-commerce network for private transactions where you own your data, so you could buy and sell products and services - and sell your data if you want to.
+- As a service: An app to manage your data when shopping online, securely and privately. Based on an eCommerce network where you own your data, so you could buy and sell products and services - and sell your data if you want to.
 - As an organization: Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
 
 > Does it worry you how companies use your data?  
