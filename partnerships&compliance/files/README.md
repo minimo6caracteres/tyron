@@ -1,4 +1,4 @@
-Welcome to the Files folder!
+Welcome to the **files** folder!
 
 In this folder, you can create yourFileName.md and work on any of the issues as a [partnerships&compliance contributor](/community/contributors/partnerships&compliance.md) :high_brightness:
 
