@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="/design&marketing/files/logoVersion_1/Tyron isologotipo 1080x1080 sin fondo.png" alt="tyron" title="tyron's logo version_1" width="250" height="250"/></div>
+<div style="text-align:center"><img src="/design&marketing/files/logoVersion_1/Tyron isologotipo 1080x1080 sin fondo.png" alt="tyron" title="tyron's logo version_1" width="400" height="400"/></div>
 <div style="text-align:center">
  <p><b>OWN YOUR DATA</b></p>
  <p><b>EMPOWER YOUR WORLD</b></p>
@@ -26,7 +26,7 @@ With tyron, the digital world could look much different for you. You could own y
 ---
 
 ## The purpose of tyron
-```To give people the ownership of their data!```
+**To give people the ownership of their data!**
 
 > tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
