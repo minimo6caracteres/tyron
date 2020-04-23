@@ -33,6 +33,6 @@ The tyron.network will be built with blockchain technology as a decentralized sy
 - Permissioned: Organizations would have to go through legal compliance to become tyron nodes operators. 
 - Proof-of-stake: Network validators would have to stake assets to secure the system.
 
-The DLT chosen for tyron is [Substrate](https://substrate.dev/) given its use of Rust and WebAssembly.
+The DLT chosen for tyron is [Substrate](https://substrate.dev/) given its use of Rust and WebAssembly. Furthermore, Substrate implements [libp2p](https://libp2p.io/) in Rust, off-chain workers and smart contracts in Wasm.
 
 ### 3. Rust & WebAssembly
