@@ -18,7 +18,7 @@ How you store your data is decisive to claim ownership. Your tyron.identity give
 
 - **tyron.agent**: It's your mobile app, the software that manages your data and allows you to communicate with other agents. This technology is developed by ```Hyperledger Aries```.
 
-:zap: To contribute with tyron's proof-of-concept 1 [check this out!](https://github.com/tyronNetwork/tyron/blob/master/engineering/files/POCs/POC1.md)
+:zap: To contribute with tyron's proof-of-concept 1 [check this out!](https://github.com/tyronNetwork/tyron/blob/master/engineering/files/POCs/POC_1.md)
 
 ## Proof-of-Concept 2: _Sell your data_
 What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key, and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share it and make some money in return.
