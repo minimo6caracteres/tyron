@@ -10,11 +10,11 @@ These are some issues to work on - feel free to add more, share ideas and questi
 E.g. add the File link like this: ```[yourFileName](/design&marketing/files/yourFileName.md)```  
 Please follow this [contributing guideline](/CONTRIBUTING.md) and keep in mind tyron's [code of conduct](/CODE_OF_CONDUCT.md). Thank you!
 
-| Issue | Description | Idea or question | Username | Status | File |
+| [Issue](/CONTRIBUTING.md#issues-by-status)| Description | Idea or question | Username | [Status](/CONTRIBUTING.md#issues-by-status) | File |
 |---|---|---|---|---|---|
 |# This file's [Intro](#intro) | What design & marketing mean for [tyron's purpose](https://www.tyron.network/#the-purpose-of-tyron). |
-|# [Website](https://www.tyron.network/) | Take the website to the next level. Currently, it's only static and hosted in GitHub. | Next move could be using [Docusaurus](https://docusaurus.io/). |
-|# Logo | Find the logo version_1 [here](/design&marketing/files/logoVersion_1). | Make the circle solid metallic green and the T transparent.| | New idea |
+|# [Website](https://www.tyron.network/) | To take the website to the next level. Currently, it's only static and hosted in GitHub. | Next move could be using [Docusaurus](https://docusaurus.io/). |
+|# Logo | Find the logo version_1 [here](/design&marketing/files/logoVersion_1). | To make the circle solid metallic green and the T transparent.| | Proposed|
 |# User experience |
 |# Social media |
 
