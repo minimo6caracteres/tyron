@@ -14,7 +14,9 @@ Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty
 ```Blockchain``` will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.  
 - **tyron.network**: An eCommerce system of blockchain networks for peer-to-peer transactions where you own your identity and private information. Various interconnected networks for different financial providers - and countries - if required due to privacy and regulatory compliance. With tyron, all your data will be encrypted with your secret keys and zero-knowledge proofs.
 
-How you store your data is decisive to claim ownership. Your tyron.identity gives you the secret keys to make such claims and the software that manages the storage of your data is your tyron.agent. Tyron agents can be stored in your phone and shall comply with ```Hyperledger``` blockchain technologies.
+How you store your data is decisive to claim ownership. Your tyron.identity gives you the secret keys to make such claims, but how do you store and manage your data? With your agent.
+
+- **tyron.agent**: It's your mobile app, the software that manages your data and allows you to communicate with other agents. This technology is developed by ```Hyperledger Aries```.
 
 :zap: To contribute with tyron's proof-of-concept 1 [check this out!](https://github.com/tyronNetwork/tyron/blob/master/engineering/files/POCs/POC1.md)
 
@@ -28,9 +30,9 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 ```
 |------------------------------------------------------------------------------------------------|
 |                                        |--> Hyperledger Aries                                  |
-|                                        |   ----------------------------------------------------|
+|                                        |                                                       |
 |      Self-Sovereign Identity (SSI) --->|--> Sidetree Protocol                                  |
-|                                        |   ----------------------------------------------------|
+|                                        |                                                       |
 |                                        |--> Decentralized Identifiers (DIDs)                   |
 |------------------------------------------------------------------------------------------------|      
 |                                        |--> Smart contracts                                    |
@@ -44,13 +46,13 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 |------------------------------------------------------------------------------------------------|
 
 ```
-- [Hyperledger Aries](https://github.com/hyperledger/aries): Hosted at [The Linux Foundation](https://www.linuxfoundation.org/), the [Hyperledger](https://www.hyperledger.org/) open source projects focus on enterprise-grade blockchain deployments. 
+- [Hyperledger Aries](https://github.com/hyperledger/aries): Hosted at [The Linux Foundation](https://www.linuxfoundation.org/), the [Hyperledger](https://www.hyperledger.org/) open-source projects focus on enterprise-grade blockchain deployments. Aries provides the cryptographic wallet with a decentralized key management system, as well as the communication protocol for off-chain interaction between blockchain clients.
 
 - [Sidetree Protocol](https://github.com/decentralized-identity/sidetree/blob/master/docs/protocol.md): Developed by the engineering-driven [Decentralized Identity Foundation](https://identity.foundation/), this protocol is meant to optimize DIDs throughput by batching multiple CRUD operations into one Sidetree transaction. The batch file gets stored in a DCAS (distributed content-addressable storage), an anchor file is created with its metadata, and the hash of the latter anchored on the blockchain. 
 
 - [Decentralized Identifiers](https://w3c.github.io/did-core/): DIDs are a new type of Uniform Resource Locator (URL), that act as web addresses for digital identities anchored in a shared root of trust, such as a distributed ledger. This allows digital identities to interact in a verifiable way without introducing a centralized authority or a single point of failure. Combining distributed ledger technology (DLT) with a decentralized identity management system, you can enable users to create and manage their own identifiers. DIDs are being standardized by the World Wide Web Consortium (W3C).
 
-- [Substrate](https://substrate.dev): It is a blockchain development framework written in Rust and with a runtime image (the chain logic that includes the STF - state transition function) compiled with WebAssembly and stored on-chain. This allows **forkless upgrades**, a significant advantage compared to other blockchain platforms. Substrate leverages the [Rust implementation](https://github.com/libp2p/rust-libp2p) of [libp2p](https://libp2p.io), a peer-to-peer networking stack modularized out of the [InterPlanetary File System (IPFS)](https://github.com/ipfs/ipfs). Substrate is developed by [Parity Technologies](https://parity.io), the company behind the most popular Ethereum client and founded by Ethereum's co-founder, [Gavin Wood](https://twitter.com/gavofyork). Furthermore, Substrate provides support for **light clients** and **off-chain workers**.
+- [Substrate](https://substrate.dev): It is a blockchain development framework written in Rust and with a runtime image (the chain logic that includes the STF - state transition function) compiled to WebAssembly and stored on-chain. This allows **forkless upgrades**, a significant advantage compared to other blockchain platforms. Substrate leverages the [Rust implementation](https://github.com/libp2p/rust-libp2p) of [libp2p](https://libp2p.io), a peer-to-peer networking stack modularized out of the [InterPlanetary File System (IPFS)](https://github.com/ipfs/ipfs). Substrate is developed by [Parity Technologies](https://parity.io), the company behind the most popular Ethereum client and founded by Ethereum's co-founder, [Gavin Wood](https://twitter.com/gavofyork). Furthermore, Substrate provides support for **light clients** and **off-chain workers**.
 
 - [Rust](https://www.rust-lang.org): For the fourth year in a row, Rust is the most loved programming language according to the [Developer Survey Results 2019 by Stack Overflow](https://insights.stackoverflow.com/survey/2019). Rust is very fast and powerful, like C++ but for the 21st century. It has a growing open-source community, and its design is modern and [easy to learn](https://doc.rust-lang.org/book/foreword.html).
   
