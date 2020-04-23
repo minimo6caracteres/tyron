@@ -33,6 +33,14 @@ The tyron.network will be built with blockchain technology as a decentralized sy
 - Permissioned: Organizations would have to go through legal compliance to become tyron nodes operators. 
 - Proof-of-stake: Network validators would have to stake assets to secure the system.
 
-The DLT chosen for tyron is [Substrate](https://substrate.dev/) given its use of Rust and WebAssembly. Furthermore, Substrate implements [libp2p](https://libp2p.io/) in Rust, off-chain workers and smart contracts in Wasm.
+The DLT chosen to build the tyron.network is [Substrate](https://substrate.dev/) given its use of Rust and WebAssembly. Substrate is a blockchain development framework that you can use to create an independent chain that can also easily connect to other Substrate-based chains, which allows blockchain interoperability. Moreover, Substrate implements [libp2p](https://libp2p.io/) in Rust, off-chain workers and smart contracts in Wasm.
 
 ### 3. Rust & WebAssembly
+[Rust](https://www.rust-lang.org/) is a powerful programming language, and its advanced trait system makes blockchain even more powerful. And you can compile software written in Rust to the new and super fast WebAssembly (Wasm).  
+The cool thing about [Wasm](https://webassembly.org/) is that you can run it in the browser, which opens up new opportunities for blockchain development. 
+
+> To name a few, Wasm powers light clients, allows forkless updates and takes smart contracts to the next level. 
+
+Both Rust and WebAsembly are open-source software supported by large communities and corporations like Microsoft, Mozilla, AWS, Google and Apple.
+
+Parity Technologies develops Substrate, and there are other blockchain networks written in Rust such as [Libra](https://github.com/libra/libra). 
