@@ -29,17 +29,18 @@ Tyron's design implements several cutting-edge technologies, many of them in act
 |------------------------------------------------------------------------------------------------|
 |                                        |--> Hyperledger Aries                                  |
 |                                        |   ----------------------------------------------------|
-|     Self-Sovereign Identity (SSI) ---->|--> Sidetree Protocol                                  |
+|      Self-Sovereign Identity (SSI) --->|--> Sidetree Protocol                                  |
 |                                        |   ----------------------------------------------------|
 |                                        |--> Decentralized Identifiers (DIDs)                   |
 |------------------------------------------------------------------------------------------------|      
-|                                        |--> Off-chain workers                                  |
-|                                        |   -------------- ^ -----------------------------------|
-| Distributed Ledger Technology (DLT) -->|                  |                   |--> WebAssembly |
-|                  &                     |                  |                   |   -------------|
-|           Smart contracts ------------>|--> Substrate blockchain framework -->|--> Rust        |
-|                                                                               |   -------------|
-|                                                                               |--> libp2p      |
+|                                        |--> Smart contracts                                    |
+|                                        |                                                       |
+| Distributed Ledger Technology (DLT) -->|--> Off-chain workers                                  |                   
+|             with Substrate             |                                                       |
+|                                        |--> libp2p                                             |  
+|                                        ^ ------------------------------------------------------|
+|                                        |<-- WebAssembly                                        |
+|                                        |<-- Rust                                               |
 |------------------------------------------------------------------------------------------------|
 
 ```
