@@ -1,6 +1,8 @@
 Welcome to the **files** folder!
 
-In this folder, you can create files (yourFileName.md) or folders (yourFolderName/yourFileName_1.md), and work on any of the issues as an [engineering contributor](/community/contributors/engineering.md) :high_brightness:
+In this folder, you can work on any of [these issues](/community/contributors/engineering.md#issues) as an **engineering contributor** :high_brightness:  
 
-> Remember to [send a pull request](/CONTRIBUTING.md#pull-requests) to add your contribution to tyron's open-source repository.  
+> :zap: If you're starting the development of a new issue, then you can create new files (yourFileName.md) or folders (yourFolderName/yourFileName_1.md) to have it organized.
+
+When you're ready, remember to [send a pull request](/CONTRIBUTING.md#pull-requests) to add your contribution to tyron's open-source repository.  
 Thank you!
