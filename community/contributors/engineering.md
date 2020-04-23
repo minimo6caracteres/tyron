@@ -13,7 +13,7 @@ Please follow this [contributing guideline](/CONTRIBUTING.md) and keep in mind t
 | Issue | Description | Idea or question | Username | Status | File |
 |---|---|---|---|---|---|
 |# This file's [Intro](#intro) | What engineering means for [tyron's purpose](https://www.tyron.network/#the-purpose-of-tyron)|
-|# Proof-of-concept 1 | | | [julioCabDu](https://github.com/julioCabDu)|In progess| [POC1](/engineering/files/POCs/POC1.md) |
+|# Proof-of-concept 1 | Key features, their feasibility and the overall functionality of the POC_1. | To use SSI and DLT to give people the ownership of their data! | [julioCabDu](https://github.com/julioCabDu)|In progess| [POC_1](/engineering/files/POCs/POC_1.md) |
 |# Project development |
 |# Environment |Environmental impact of tyron. <br/> How to use profits to work to mitigate global warming. | 
 
