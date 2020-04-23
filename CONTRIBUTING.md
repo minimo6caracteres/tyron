@@ -35,10 +35,10 @@ Follow the link, and in the upper right corner click the 'pencil button' ("Edit 
     - [Design & marketing](/community/contributors/design&marketing.md)
     - [Partnerships & compliance](/community/contributors/partnerships&compliance.md)
     
-    
-    > More info in [Community](/community/README.md), and please keep in mind tyron's [code of conduct](/CODE_OF_CONDUCT.md) while contributing.  
-    > New to [markdown?](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops)  
-    > Explore the [emoji markup](https://gist.github.com/rxaviers/7360908) :mag:
+More info in [Community](/community/README.md), and please keep in mind tyron's [code of conduct](/CODE_OF_CONDUCT.md) while contributing.
+
+> New to [markdown?](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops)  
+> Explore the [emoji markup](https://gist.github.com/rxaviers/7360908) :mag:
     
 ### Issues by status
 In every key area, you can find the list of issues - topics that bring up ideas or questions - which are organized by status: 
