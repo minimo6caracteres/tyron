@@ -1,16 +1,17 @@
 # LEAD CONTRIBUTORS
-Those committed to the project and want tyron to achieve its purpose for the public good.  
+Those committed to the project and that want tyron to achieve its purpose for the public good.  
 Lead contributors could receive payment for their time contributing to tyron.
 
 Anyone that contributes to tyron could become a lead contributor - no matter your background or technical expertise but your actions and contributions. 
 
 **Recap**:
-- **Product**: Open-source e-commerce app for peer-to-peer private transactions where the user owns their data.  
+- **Product**: Open-source eCommerce app for peer-to-peer private transactions where the user owns their data.  
 - **Purpose**: To give people the ownership of their data.
-- **Vision**: ```tyron as open source software``` and tyron as a [social enterprise](https://www.investopedia.com/terms/s/social-enterprise.asp) - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships&compliance/files/incorporation.md) - a nonprofit & open organization to manage the project.
+- **Vision**: *A world where people have access to an online market that protects their privacy and personal information, a market with low barriers to entry for small and medium-sized enterprises (SMEs).  
+A society where data-driven businesses’ success is not at the expenses of people’s rights.*
 - **Values**:  
 :recycle: To advocate for data rights as human rights  
-:recycle: To use profits to work to mitigate global warming!
+:recycle: To use profits to mitigate global warming!
 
 ## Open organization
 Open organization means not only open-source software but also transparent management and online collaboration.  
