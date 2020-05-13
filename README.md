@@ -1,7 +1,6 @@
 <div style="text-align:center"><img src="/design&marketing/files/logoVersion_1/Tyron isologotipo 1080x1080 sin fondo.png" alt="tyron" title="tyron's logo version_1" width="333" height="333"/></div>
 <div style="text-align:center">
- <p><b>OWN YOUR DATA</b></p>
- <p><b>EMPOWER YOUR WORLD</b></p>
+ <p><b>OWN YOUR DATA - EMPOWER YOUR WORLD</b></p>
 </div>
 
 ## What tyron could be:
@@ -60,6 +59,6 @@ Transaction fees will fund projects to mitigate global warming. Users will vote 
 ---
 
 <div style="text-align:center">
- <p><b>OWN YOUR DATA</b></p>
- <p><b>EMPOWER YOUR WORLD</b></p>
+ <p><b>OWN YOUR DATA - EMPOWER YOUR WORLD</b></p>
+ <p>Contact: community@tyron.network</p>
 </div>
