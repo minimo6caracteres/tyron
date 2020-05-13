@@ -1,8 +1,8 @@
 # LEAD CONTRIBUTORS
-Those committed to the project and that want tyron to achieve its purpose for the public good.  
-Lead contributors could receive payment for their time contributing to tyron.
+Those committed to the project and that want Tyron to achieve its purpose for the public good.  
+Lead contributors could receive payment for their time contributing to Tyron.
 
-Anyone that contributes to tyron could become a lead contributor - no matter your background or technical expertise but your actions and contributions. 
+Anyone that contributes to Tyron could become a lead contributor - no matter your background or technical expertise but your actions and contributions. 
 
 **Recap**:
 - **Product**: Open-source eCommerce app for peer-to-peer private transactions where the user owns their data.  
