@@ -12,16 +12,16 @@ Tyron will leverage self-sovereign identity (```SSI```) to give data sovereignty
 - **tyron.identity**: Every time you want to buy from an online shop you have to use an account managed by them and they can store your data for a long time. What if instead of many usernames and passwords, you could use your self-sovereign identity (SSI)? A digital identity anchored in a system that allows you to manage your privacy by creating different decentralized identifiers (DIDs). For each company you communicate with, you could create a unique DID and decide what private information they have access to.
  
 ```Blockchain``` will be the backbone technology for the peer-to-peer tyron.network, allowing their users to prove who they are without a middleman.  
-- **tyron.network**: An eCommerce system of blockchain networks for peer-to-peer transactions where you own your identity and private information. Various interconnected networks for different financial providers - and countries - if required due to privacy and regulatory compliance. With tyron, all your data will be encrypted with your secret keys and zero-knowledge proofs.
+- **tyron.network**: An eCommerce system of blockchain networks for peer-to-peer transactions where you own your identity and private information. Various interconnected networks for different financial providers - and countries - if required due to privacy and regulatory compliance. With Tyron, all your data will be encrypted with your secret keys and zero-knowledge proofs.
 
 How you store your data is decisive to claim ownership. Your tyron.identity gives you the secret keys to make such claims, but how do you store and manage your data? With your agent.
 
 - **tyron.agent**: It's your mobile app, the software that manages your data and allows you to communicate with other agents. This technology is developed by ```Hyperledger Aries```.
 
-:zap: To contribute with tyron's proof-of-concept 1 [check this out!](https://github.com/tyronNetwork/tyron/blob/master/engineering/files/POCs/POC_1.md)
+:zap: To contribute with Tyron's proof-of-concept 1 [check this out!](https://github.com/tyronNetwork/tyron/blob/master/engineering/files/POCs/POC_1.md)
 
 ## Proof-of-Concept 2: _Sell your data_
-What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key, and tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share it and make some money in return.
+What if you could share your market data for machine learning and influence where resources shall be allocated? Sustainability is key, and Tyron believes that artificial intelligence has to be sustainable as well. Then let's start paying people for their data if they'd like to share it and make some money in return.
 
 _Stay tuned._
 
