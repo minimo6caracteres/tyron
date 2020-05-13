@@ -3,7 +3,7 @@
  <p><b>OWN YOUR DATA - EMPOWER YOUR WORLD</b></p>
 </div>
 
-## What tyron could be:
+## Tyron:
 - As a service: An open-source app to manage your data when shopping online, securely and privately. Based on an eCommerce blockchain network where you own your data, so you could buy and sell products and services - and sell your data if you want to.
 - As an organization: Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
 
@@ -20,14 +20,14 @@ Data is valuable because we can use it to develop and improve products and servi
 The problem is much larger than e-commerce: private data has been used to manipulate democratic elections. The question of whether we can trust companies with our data is urgent. Without transparency from the companies and options for the user to make a different choice, the problem of data misuse remains. 
 
 But what if you could use a digital identity that protects your privacy? What if you could shop online as you do with cash in real life?  
-With tyron, the digital world could look much different for you. You could own your data - and even sell it, if you want to.
+With Tyron, the digital world could look much different for you. You could own your data - and even sell it, if you want to.
 
 ---
 
-## The purpose of tyron
+## The purpose of Tyron
 **To give people the ownership of their data!**
 
-> tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
+> Tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
 
 Ownership of your data means exclusive rights and control over your data:
 - The right to prove your identity with a digital system that is not controlled by any single company or organization. A system that relies upon open source code and decentralized technologies like blockchain.
