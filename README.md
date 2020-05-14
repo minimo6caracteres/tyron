@@ -4,8 +4,9 @@
 </div>
 
 ## Tyron:
-- As a service: An open-source app to manage your data when shopping online, securely and privately. Based on an eCommerce blockchain network where you own your data, so you could buy and sell products and services - and sell your data if you want to.
-- As an organization: Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
+:zap: As a service: An open-source app to manage your data when shopping online, securely and privately. Based on an eCommerce blockchain network where you own your data, so you could buy and sell products and services - and sell your data if you want to.
+
+:high_brightness: As an organization: Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
 
 > Does it worry you how companies use your data?  
 > **Who owns your data, and how do they use it?** Users don't have enough control over how much and to which extent companies process our personal information.  
@@ -53,8 +54,8 @@ Transaction fees will fund projects to mitigate global warming. Users will vote 
 
 ---
 
-## [ENGINEERING](/engineering/README.md) :zap:
-## [COMMUNITY](/community/README.md) :high_brightness:
+### :zap: [ENGINEERING >](/engineering/README.md)
+### :high_brightness: [COMMUNITY >](/community/README.md) 
 
 ---
 
