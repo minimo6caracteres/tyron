@@ -11,7 +11,7 @@
 > Does it worry you how companies use your data?  
 > **Who owns your data, and how do they use it?** Users don't have enough control over how much and to which extent companies process our personal information.  
 
-> But why do we need more data protection? And how tyron could solve that?
+> But why do we need more data protection? And how Tyron could solve that?
 
 ## The problem
 When shopping online, companies gather a lot of your personal information. Many times the data they require seems unnecessary - why do I need to disclose my gender to buy a random item? And why do they want my phone number if they rarely use it to contact me? We spend time creating these accounts, over and over again, and we give away so much data, for free. But your data has an immense value! You're just not getting any money for it. Quite the opposite, your data could also be used against you. 
