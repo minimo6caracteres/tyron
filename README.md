@@ -3,10 +3,11 @@
  <p><b>OWN YOUR DATA - EMPOWER YOUR WORLD</b></p>
 </div>
 
-## Tyron:
-:zap: As a service: An open-source app to manage your data when shopping online, securely and privately. Based on an eCommerce blockchain network where you own your data, so you could buy and sell products and services - and sell your data if you want to.
+## The app: Tyron
+:zap: An eCommerce decentralized app to manage your account data when shopping online, securely and privately. Powered by self-sovereign identity, blockchain and web technologies, to give people the ownership of their data.
 
-:high_brightness: As an organization: Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
+## The organization: Pungtas
+:high_brightness: Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
 
 > Does it worry you how companies use your data?  
 > **Who owns your data, and how do they use it?** Users don't have enough control over how much and to which extent companies process our personal information.  
