@@ -61,5 +61,4 @@ Transaction fees will fund projects to mitigate global warming. Users will vote 
 
 <div style="text-align:center">
  <p><b>OWN YOUR DATA - EMPOWER YOUR WORLD</b></p>
- <p>Contact: community@tyron.network</p>
 </div>
