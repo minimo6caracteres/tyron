@@ -77,13 +77,13 @@ It is a new type of code, a portable target for compilation of high-level langua
 ### [Rust](https://www.rust-lang.org):
 A very fast and powerful programming language, with a design that is modern and [easy to learn](https://doc.rust-lang.org/book/foreword.html). Rust has a growing open-source community, and for the fourth year in a row, it is the most loved programming language according to the [Developer Survey Results 2019 by Stack Overflow](https://insights.stackoverflow.com/survey/2019).  
 
-### Go
+### [Go](https://golang.org/)
+A programming language focused on concurrency ([Goroutines](https://tour.golang.org/concurrency/1)) and multiprocessing, Go powers cutting-edge open-source software such as [Kubernetes](https://github.com/kubernetes/kubernetes), [IPFS](https://github.com/ipfs/go-ipfs) and [Hyperledger Fabric](https://github.com/hyperledger/fabric).
 
 ---
 
 <div style="text-align:center">
- <p><b>OWN YOUR DATA</b></p>
- <p><b>EMPOWER YOUR WORLD</b></p>
+ <p><b>OWN YOUR DATA - EMPOWER YOUR WORLD</b></p>
 </div>
 
 > <a href="/"> > Back to homepage </a>
