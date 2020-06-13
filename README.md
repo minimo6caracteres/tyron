@@ -3,13 +3,13 @@
 </div>
 
 ## The app: Tyron
-:zap: An eCommerce decentralized app to manage your account data when shopping online, securely and privately. Powered by self-sovereign identity, blockchain and web technologies, to give people the ownership of their data.
+:zap: An eCommerce decentralized app to manage your account data when shopping online, securely and privately. Powered by self-sovereign identity, blockchain and web technologies, to give people sovereignty over their data.
 
 ## The organization: Pungtas
-:high_brightness: Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/tyronNetwork/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
+:high_brightness: Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/pungtas/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
 
 > Does it worry you how companies use your data?  
-> **Who owns your data, and how do they use it?** Users don't have enough control over how much and to which extent companies process our personal information.  
+> **Who owns your data, and how do they use it?** Users don't have enough control over how much and to which extent companies and third parties process our personal information.  
 
 > But why do we need more data protection? And how Tyron could solve that?
 
@@ -26,11 +26,9 @@ With Tyron, the digital world could look much different for you. You could own y
 ---
 
 ## The purpose of Tyron
-**To give people the ownership of their data!**
+The word Tyron derives from the Greek _turannos_ that means sovereign, and Tyron's purpose is **to give people sovereignty over their data**.
 
-> Tyron derives from the Greek _turannos_ which means sovereign, and it's about giving data sovereignty to their users.
-
-Ownership of your data means exclusive rights and control over your data:
+Sovereignty of your data means exclusive rights and control over your data:
 - The right to prove your identity with a digital system that is not controlled by any single company or organization. A system that relies upon open source code and decentralized technologies like blockchain.
 
 - The right to have a digital identity that protects your privacy against unwanted data collectors and surveillance.
@@ -50,7 +48,7 @@ A society where data-driven businesses' success is not at the expenses of people
 The end-user pays for the service through transaction fees.  
 Transaction fees will fund projects to mitigate global warming. Users will vote the winner for each term.
 
-[Staking capital](https://github.com/tyronNetwork/tyron/blob/master/community/contributors/economy&finance.md) to cover the operating costs. 
+[Staking capital](https://github.com/pungtas/tyron/blob/master/community/contributors/economy&finance.md) to cover the operating costs. 
 
 ---
 

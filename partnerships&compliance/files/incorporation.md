@@ -1,6 +1,8 @@
-- Issue: Legal incorporation in Denmark as **Tyron RSV Stiftelse**. 
-- Description of the idea: Tyron as a [registreret socialøkonomisk virksomhed (RSV)](#registrering-af-socialøkonomisk-virksomhed), a nonprofit and open organization.
-- Status: In progress. 
+# Legal incorporation in Denmark as **Pungtas RSV Stiftelse**. 
+Author: Julio Cabrapan Duarte  
+[Status](/community/contributing.md#issues-by-status): Proposed  
+Start Date: 13/6/2020  
+Summary: Pungtas as a [registreret socialøkonomisk virksomhed (RSV)](#registrering-af-socialøkonomisk-virksomhed), a nonprofit and open organization.
 
 ## Type of organization
 Særlige foreninger: Stiftelse
@@ -45,7 +47,7 @@ Vær opmærksom på, at nedenstående oplysninger offentliggøres i CVR på Virk
 
 Alle nedenstående oplysninger kan ændres på Virk Indberet under 'Ændre virksomhed' 
 
-- Foreningens navn: **Tyron RSV Stiftelse**
+- Foreningens navn: **Pungtas RSV Stiftelse**
 > Navnet skal fremgå af vedtægterne  
 Foreningen bestemmer selv, hvad den skal hedde. Navnet skal fremgå af vedtægterne og må ikke kunne forveksles med en offentlig myndighed. Betegnelser som fx ApS og A/S, må ikke fremgå af navnet.  
 Foreningen har ikke eneret til virksomhedsnavnet. Det kan undersøges om der findes andre enheder med samme navn ved at søge i [Det Centrale Virksomhedsregister (CVR) på Virk](https://datacvr.virk.dk/data/)   
