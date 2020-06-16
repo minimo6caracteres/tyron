@@ -1,17 +1,16 @@
 <div style="text-align:center"><img src="/design&marketing/files/logoVersion_1/Tyron logotipo 1080x1080 sin fondo.png" alt="tyron" title="tyron's logo version_1" width="300" height="300"/></div><div style="text-align:center">
 </div>
 
-## The app: Tyron
 An eCommerce decentralized app to manage your account data when shopping online, securely and privately. Powered by self-sovereign identity, blockchain and web technologies, to give people sovereignty over their data.
 
 ## The organization: Pungtas
 Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/pungtas/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
 
+---
+
 > Does it worry you how companies use your data?  
 As users, we don't have enough control over how much and to which extent companies and third parties process our personal information.  
 But why do we need more data protection? And how Tyron could solve that?
-
----
 
 <details>
   <summary><b>The problem</b></summary>
