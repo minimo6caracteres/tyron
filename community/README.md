@@ -21,4 +21,4 @@ If you prefer to reach out by email, contact **pungtas@pm.me** - thank you!
  <p><b>Own your data, empower your world.</b></p>
 </div>
 
-> <a href="/"> > Back to homepage </a>
+> <a href="/">Back to homepage </a>
