@@ -1,62 +1,68 @@
 <div style="text-align:center"><img src="/design&marketing/files/logoVersion_1/Tyron logotipo 1080x1080 sin fondo.png" alt="tyron" title="tyron's logo version_1" width="300" height="300"/></div><div style="text-align:center">
- <p><b>OWN YOUR DATA - EMPOWER YOUR WORLD</b></p>
 </div>
 
 ## The app: Tyron
-:zap: An eCommerce decentralized app to manage your account data when shopping online, securely and privately. Powered by self-sovereign identity, blockchain and web technologies, to give people sovereignty over their data.
+An eCommerce decentralized app to manage your account data when shopping online, securely and privately. Powered by self-sovereign identity, blockchain and web technologies, to give people sovereignty over their data.
 
 ## The organization: Pungtas
-:high_brightness: Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/pungtas/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
+Registered in Denmark as a socioeconomic enterprise - [registeret socialøkonomisk virksomhed (RSV)](https://github.com/pungtas/tyron/blob/master/partnerships%26compliance/files/incorporation.md) - with transaction [profits](#profits) funding projects that mitigate global warming.
 
 > Does it worry you how companies use your data?  
-> **Who owns your data, and how do they use it?** Users don't have enough control over how much and to which extent companies and third parties process our personal information.  
+As users, we don't have enough control over how much and to which extent companies and third parties process our personal information.  
+But why do we need more data protection? And how Tyron could solve that?
 
-> But why do we need more data protection? And how Tyron could solve that?
+---
 
-## The problem
-When shopping online, companies gather a lot of your personal information. Many times the data they require seems unnecessary - why do I need to disclose my gender to buy a random item? And why do they want my phone number if they rarely use it to contact me? We spend time creating these accounts, over and over again, and we give away so much data, for free. But your data has an immense value! You're just not getting any money for it. Quite the opposite, your data could also be used against you. 
+<details>
+  <summary><b>The problem</b></summary>
 
-Data is valuable because we can use it to develop and improve products and services based on feedback and user information. It should be our right to understand how companies are making profits of our data - without having to read overly wordy "privacy policies".
+<p>When shopping online, companies gather a lot of our personal information. Many times the data they require seems unnecessary - why do I need to disclose my gender to buy a random item?</p>
 
-The problem is much larger than e-commerce: private data has been used to manipulate democratic elections. The question of whether we can trust companies with our data is urgent. Without transparency from the companies and options for the user to make a different choice, the problem of data misuse remains. 
+<p>We either create accounts with multiple companies or use an identity provider such as Facebook or Google. Thus identities on the internet remain centralized, and we often don’t know how our data is used and shared with third parties.</p>
 
-But what if you could use a digital identity that protects your privacy? What if you could shop online as you do with cash in real life?  
-With Tyron, the digital world could look much different for you. You could own your data - and even sell it, if you want to.
+<p>We give away all that data for free. But your data has an immense value! It is necessary to develop and improve products&services using artificial intelligence. You’re just not getting any money for it. Quite the opposite, people could use your data against you, to, e.g. manipulate democratic elections.</p>
+
+<p>The problem is much larger than eCommerce, but what if you could use a digital identity that protects your privacy? What if you could shop online as you do with cash in real life?</p>
+
+<p>With Tyron, the digital world could look much different for you. You could own your data - and even sell it, if you want to.</p>
+
+</details>
 
 ---
 
 ## The purpose of Tyron
 The word Tyron derives from the Greek _turannos_ that means sovereign, and Tyron's purpose is **to give people sovereignty over their data**.
 
-Sovereignty of your data means exclusive rights and control over your data:
-- The right to prove your identity with a digital system that is not controlled by any single company or organization. A system that relies upon open source code and decentralized technologies like blockchain.
+The sovereignty over your data means exclusive rights and control over your data:
+- The right to prove your identity with a digital system that is not controlled by any single company or organization. A system that relies upon open-source code and decentralized technologies like blockchain.
 
 - The right to have a digital identity that protects your privacy against unwanted data collectors and surveillance.
 
 - The right to control your data deciding how and where it is stored and managed.
 
-### VISION
-*A world where people have access to an online market that protects their privacy and personal information, a market with low barriers to entry for small and medium-sized enterprises (SMEs).  
-A society where data-driven businesses' success is not at the expenses of people's rights.*
+<details>
+  <summary><b>Tyron's vision, values and profits</b></summary>
+<p><b>Vision</b></p> 
+<p>For technology to give people access to online markets that protect their privacy and personal information, markets with low barriers to entry for small and medium-sized enterprises (SMEs).</p>
+<p>For data-driven businesses' success not to be at the expenses of people's rights.</p>
 
-### VALUES
-:recycle: To advocate for data rights as human rights
+<p><b>Values</b></p>
+<p>To advocate for data rights as human rights.</p>
+<p>To use profits to mitigate global warming.</p>
 
-:recycle: To use profits to mitigate global warming!
+<p><b>Profits</b></p>
+<p>The end-user pays for the service through transaction fees.</br>
+Transaction fees will fund projects to mitigate global warming. Users will vote the winner for each term.</p>
 
-### PROFITS
-The end-user pays for the service through transaction fees.  
-Transaction fees will fund projects to mitigate global warming. Users will vote the winner for each term.
-
-[Staking capital](https://github.com/pungtas/tyron/blob/master/community/contributors/economy&finance.md) to cover the operating costs. 
+</details>
 
 ---
 
-### :zap: [ENGINEERING >](/engineering/README.md)
-### :high_brightness: [COMMUNITY >](/community/README.md) 
+### [Engineering](/engineering/README.md)
+### [Community](/community/README.md) 
 
 ---
 
 <div style="text-align:center">
- <p><b>OWN YOUR DATA - EMPOWER YOUR WORLD</b></p>
+ <p><b>Own your data, empower your world.</b></p>
 </div>

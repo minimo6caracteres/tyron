@@ -18,7 +18,7 @@ If you prefer to reach out by email, contact **pungtas@pm.me** - thank you!
 ---
 
 <div style="text-align:center">
- <p><b>OWN YOUR DATA - EMPOWER YOUR WORLD</b></p>
+ <p><b>Own your data, empower your world.</b></p>
 </div>
 
 > <a href="/"> > Back to homepage </a>

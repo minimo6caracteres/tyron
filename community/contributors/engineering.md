@@ -1,6 +1,6 @@
 # Engineering contributors :high_brightness:
 ## Intro:
-Tyron's core is engineering, how to use technology to improve society and the financial systems.
+Tyron's core is engineering, how to use technology to improve society, democracy and the financial systems.
 
 ---
 ## Issues:
@@ -19,4 +19,4 @@ Please follow this [contributing guideline](/community/CONTRIBUTING.md) and keep
 
 ---
 
-> <a href="/community"> > Back to Community </a>
+> <a href="/community">Back to Community</a>
