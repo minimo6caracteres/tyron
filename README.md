@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="/design&marketing/files/logoVersion_1/Tyron logotipo 1080x1080 sin fondo.png" alt="tyron" title="tyron's logo version_1" width="300" height="300"/></div><div style="text-align:center">
+<div style="text-align:center"><img src="./design-marketing/files/logoVersion_1/Tyron logotipo 1080x1080 sin fondo.png" alt="tyron" title="tyron's logo version_1" width="300" height="300"/></div><div style="text-align:center">
 </div>
 
 An eCommerce decentralized app to manage your account data when shopping online, securely and privately. Powered by self-sovereign identity, blockchain and web technologies, to give people sovereignty over their data.
